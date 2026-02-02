@@ -1,17 +1,5 @@
 [
   {
-    "city": "Albany County",
-    "state": "NY",
-    "url": "https://ecode360.com/AL3660",
-    "code": "AL3660"
-  },
-  {
-    "city": "Cayuga County",
-    "state": "NY",
-    "url": "https://ecode360.com/CA2794",
-    "code": "CA2794"
-  },
-  {
     "city": "City of Albany",
     "state": "NY",
     "url": "https://ecode360.com/AL0934",
@@ -312,58 +300,10 @@
     "code": "YO0144"
   },
   {
-    "city": "Dutchess County",
-    "state": "NY",
-    "url": "https://ecode360.com/DU1148",
-    "code": "DU1148"
-  },
-  {
     "city": "Fairport OCED",
     "state": "NY",
     "url": "https://ecode360.com/FA6731",
     "code": "FA6731"
-  },
-  {
-    "city": "Monroe County",
-    "state": "NY",
-    "url": "https://ecode360.com/MO0860",
-    "code": "MO0860"
-  },
-  {
-    "city": "Putnam County",
-    "state": "NY",
-    "url": "https://ecode360.com/PU1531",
-    "code": "PU1531"
-  },
-  {
-    "city": "Rockland County",
-    "state": "NY",
-    "url": "https://ecode360.com/RO1021",
-    "code": "RO1021"
-  },
-  {
-    "city": "Saratoga County",
-    "state": "NY",
-    "url": "https://ecode360.com/SA2068",
-    "code": "SA2068"
-  },
-  {
-    "city": "Suffolk County",
-    "state": "NY",
-    "url": "https://ecode360.com/SU0867",
-    "code": "SU0867"
-  },
-  {
-    "city": "Sullivan County",
-    "state": "NY",
-    "url": "https://ecode360.com/SU1732",
-    "code": "SU1732"
-  },
-  {
-    "city": "Tompkins County",
-    "state": "NY",
-    "url": "https://ecode360.com/TO1768",
-    "code": "TO1768"
   },
   {
     "city": "Town of Albion",
@@ -2368,12 +2308,6 @@
     "state": "NY",
     "url": "https://ecode360.com/MO0865",
     "code": "MO0865"
-  },
-  {
-    "city": "Ulster County",
-    "state": "NY",
-    "url": "https://ecode360.com/UL2774",
-    "code": "UL2774"
   },
   {
     "city": "Village of Adams",

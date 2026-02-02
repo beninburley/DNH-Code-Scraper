@@ -98,7 +98,14 @@ class Ecode360Collector:
                             'code': code
                         })
                 
+                # Filter out counties - only keep cities, towns, villages, etc.
+                original_count = len(cities)
+                cities = [c for c in cities if not self._is_county(c['city'])]
+                filtered_count = original_count - len(cities)
+                
                 print(f"  ✅ Collected {len(cities)} municipalities for {state_code}")
+                if filtered_count > 0:
+                    print(f"  🚫 Filtered out {filtered_count} counties")
                 
             except Exception as e:
                 print(f"  ❌ Error collecting {state_code} municipalities: {e}")
@@ -107,6 +114,19 @@ class Ecode360Collector:
                 browser.close()
         
         return cities
+    
+    def _is_county(self, name: str) -> bool:
+        """Check if municipality name is a county."""
+        name_lower = name.lower()
+        # Check if it explicitly says "county" but not "county of"
+        if 'county' in name_lower:
+            # Allow "County of X" format (some municipalities use this)
+            if name_lower.startswith('county of'):
+                return False
+            # Filter out "X County" format
+            if name_lower.endswith('county') or ' county' in name_lower:
+                return True
+        return False
     
     def _clean_city_name(self, text: str) -> str:
         """Clean up city name from link text."""

@@ -6,6 +6,7 @@ from datetime import datetime
 from typing import List, Dict, Optional
 import config
 import re
+import html
 
 
 class PDFGenerator:
@@ -25,6 +26,98 @@ class PDFGenerator:
         text = text[:100]
         return text
     
+    def format_section_content(self, raw: str) -> str:
+        """
+        Convert scraped plain-text-ish code content into readable HTML:
+        - Paragraphs
+        - Hanging indents for A./B./1./(a) style items
+        - Definition blocks (ALL CAPS term followed by its definition)
+        - Preserve § references as bold tokens
+        """
+        if not raw:
+            return ""
+
+        # Normalize newlines
+        text = raw.replace("\r\n", "\n").replace("\r", "\n").strip()
+
+        # Escape any HTML to avoid broken markup / injection
+        text = html.escape(text)
+
+        lines = [ln.strip() for ln in text.split("\n")]
+
+        out = []
+        i = 0
+
+        # Helpers
+        def is_caps_term(s: str) -> bool:
+            # e.g., CLERK / COMMITTEE / EMPLOYEE
+            return bool(re.fullmatch(r"[A-Z][A-Z0-9 \-]{2,}", s or ""))
+
+        def is_marker(s: str) -> Optional[str]:
+            # A. / B. / 1. / 1A. / 7A. etc.
+            m = re.fullmatch(r"([A-Z]|\d{1,3}[A-Z]?)\.", s)
+            return m.group(1) if m else None
+
+        def is_section_symbol(s: str) -> bool:
+            return bool(re.match(r"^§\s*\d", s))
+
+        while i < len(lines):
+            ln = lines[i]
+            if not ln:
+                i += 1
+                continue
+
+            # Join stray "§ 54-3" line with its title line ("Declaration of policy.")
+            if is_section_symbol(ln) and i + 1 < len(lines) and lines[i + 1] and not is_section_symbol(lines[i + 1]):
+                sec = ln
+                title = lines[i + 1]
+                out.append(f'<div class="sec-head"><span class="sec-symbol">{sec}</span> {title}</div>')
+                i += 2
+                continue
+
+            # Definition term (ALL CAPS) followed by one+ definition lines until next caps-term/marker/§/blank
+            if is_caps_term(ln):
+                term = ln
+                i += 1
+                defs = []
+                while i < len(lines):
+                    nxt = lines[i]
+                    if (not nxt) or is_caps_term(nxt) or is_section_symbol(nxt) or is_marker(nxt):
+                        break
+                    defs.append(nxt)
+                    i += 1
+                definition = " ".join(defs).strip()
+                if definition:
+                    out.append(f'<div class="def"><div class="def-term">{term}</div><div class="def-text">{definition}</div></div>')
+                else:
+                    out.append(f'<div class="def"><div class="def-term">{term}</div></div>')
+                continue
+
+            # Hanging-indent list item marker line by itself: "A." then the next line(s)
+            mark = is_marker(ln)
+            if mark:
+                i += 1
+                parts = []
+                while i < len(lines):
+                    nxt = lines[i]
+                    if (not nxt) or is_marker(nxt) or is_caps_term(nxt) or is_section_symbol(nxt):
+                        break
+                    parts.append(nxt)
+                    i += 1
+                body = " ".join(parts).strip()
+                out.append(f'<div class="li"><span class="li-mark">{mark}.</span><span class="li-body">{body}</span></div>')
+                continue
+
+            # Bold § references that appear inline (e.g., "pursuant to § 54-5 of this chapter")
+            ln = re.sub(r"(§\s*\d[\w\-\.\(\)]*)", r"<span class='sec-symbol'>\1</span>", ln)
+
+            # Default: normal paragraph
+            out.append(f"<p>{ln}</p>")
+            i += 1
+
+        return "\n".join(out)
+
+    
     def create_html_document(self, city_name: str, sections: List[Dict], source_url: str) -> str:
         """Create complete HTML document from sections."""
         html_parts = [
@@ -38,7 +131,8 @@ class PDFGenerator:
             '      font-family: "Times New Roman", Times, serif;',
             '      font-size: 12pt;',
             '      line-height: 1.6;',
-            '      margin: 1in;',
+            '      margin: 0;',
+            '      padding: 0;',
             '      color: #000;',
             '    }',
             '    h1 {',
@@ -59,7 +153,7 @@ class PDFGenerator:
             '    }',
             '    .section {',
             '      margin-bottom: 40px;',
-            '      page-break-inside: avoid;',
+            '      page-break-inside: auto;',
             '    }',
             '    .section-title {',
             '      font-weight: bold;',
@@ -67,14 +161,56 @@ class PDFGenerator:
             '      margin-bottom: 15px;',
             '      color: #000;',
             '    }',
-            '    .section-content {',
+                        '    .section-content {',
             '      font-size: 12pt;',
-            '      line-height: 1.8;',
+            '      line-height: 1.65;',
             '      color: #000;',
-            '      white-space: pre-wrap;',
+            '      margin: 0;',
             '    }',
+            '    .section-content p {',
+            '      margin: 0 0 10px 0;',
+            '      text-indent: 0.25in;',
+            '    }',
+            '    .sec-head {',
+            '      margin: 14px 0 8px 0;',
+            '      font-weight: 700;',
+            '      text-indent: 0;',
+            '    }',
+            '    .sec-symbol {',
+            '      font-weight: 700;',
+            '      white-space: nowrap;',
+            '    }',
+            '    .li {',
+            '      margin: 0 0 10px 0;',
+            '      display: flex;',
+            '      gap: 10px;',
+            '      align-items: flex-start;',
+            '    }',
+            '    .li-mark {',
+            '      width: 0.35in;',
+            '      font-weight: 700;',
+            '      flex: 0 0 0.35in;',
+            '    }',
+            '    .li-body {',
+            '      flex: 1;',
+            '    }',
+            '    .def {',
+            '      margin: 8px 0 12px 0;',
+            '      padding: 8px 10px;',
+            '      border-left: 3px solid #999;',
+            '      background: #fafafa;',
+            '    }',
+            '    .def-term {',
+            '      font-weight: 700;',
+            '      letter-spacing: 0.02em;',
+            '      margin-bottom: 4px;',
+            '    }',
+            '    .def-text {',
+            '      text-indent: 0;',
+            '    }',
+
             '    @page {',
-            '      margin: 0.75in;',
+            '      margin: 1in;',
             '    }',
             '  </style>',
             '</head>',
@@ -99,7 +235,8 @@ class PDFGenerator:
             content = section.get('content', '')
             if content:
                 # Clean the content: just plain text, no HTML tags
-                html_parts.append(f'    <div class="section-content">{content}</div>')
+                formatted = self.format_section_content(content)
+                html_parts.append(f'    <div class="section-content">{formatted}</div>')
             
             html_parts.append('  </div>')
         
@@ -143,6 +280,18 @@ class PDFGenerator:
                     path=filepath,
                     format='Letter',
                     print_background=True,
+                    display_header_footer=True,
+                    header_template=(
+                        "<div style='font-size:9px;width:100%;text-align:right;"
+                        "padding-right:24px;color:#666;'>"
+                        f"{html.escape(city_name)} — Ethics Code"
+                        "</div>"
+                    ),
+                    footer_template=(
+                        "<div style='font-size:9px;width:100%;text-align:center;color:#666;'>"
+                        "Page <span class='pageNumber'></span> of <span class='totalPages'></span>"
+                        "</div>"
+                    ),
                     margin={
                         'top': '0.75in',
                         'right': '0.75in',
