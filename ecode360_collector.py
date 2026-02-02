@@ -53,11 +53,6 @@ class Ecode360Collector:
                 html = page.content()
                 soup = BeautifulSoup(html, 'lxml')
                 
-                # Debug: save HTML to file
-                with open(f"debug_{state_code}_library.html", 'w', encoding='utf-8') as f:
-                    f.write(html)
-                print(f"  🐛 Saved page HTML to debug_{state_code}_library.html")
-                
                 # Look for municipality links
                 # General Code library typically shows links in a list format
                 # Links to ecode360 typically have pattern: ecode360.com/[CODE]
@@ -69,11 +64,6 @@ class Ecode360Collector:
                     links = soup.find_all('a', href=re.compile(r'ecode360\.com/\w+'))
                 
                 print(f"  📊 Found {len(links)} potential municipality links")
-                
-                # Debug: also look for any links at all
-                all_links = soup.find_all('a', href=True)
-                ecode_links = [l for l in all_links if 'ecode360' in l.get('href', '')]
-                print(f"  🐛 Found {len(ecode_links)} links containing 'ecode360'")
                 
                 for link in links:
                     href = link.get('href', '')

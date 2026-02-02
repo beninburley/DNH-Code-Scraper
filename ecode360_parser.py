@@ -83,10 +83,6 @@ class Ecode360Parser:
                 html = self.page.content()
                 soup = BeautifulSoup(html, 'lxml')
                 
-                # Debug: save HTML
-                with open(f"debug_malta_home.html", 'w', encoding='utf-8') as f:
-                    f.write(html)
-                
                 # Find all chapter/section links in the table of contents
                 # ecode360 uses class="titleLink" for chapter links
                 all_links = soup.find_all('a', class_='titleLink')
@@ -161,11 +157,6 @@ class Ecode360Parser:
             
             html = self.page.content()
             soup = BeautifulSoup(html, 'lxml')
-            
-            # Debug: save section HTML
-            with open(f"debug_section_{url.split('/')[-1]}.html", 'w', encoding='utf-8') as f:
-                f.write(html)
-            print(f"        🐛 Saved section HTML")
             
             # Extract the main content
             # ecode360 typically has the content in specific containers
