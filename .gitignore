@@ -21,3 +21,6 @@ city_links.json
 
 # Logs
 *.log
+
+#Tests
+debug_*
