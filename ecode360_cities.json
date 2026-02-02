@@ -1,0 +1,4274 @@
+[
+  {
+    "city": "Albany County",
+    "state": "NY",
+    "url": "https://ecode360.com/AL3660",
+    "code": "AL3660"
+  },
+  {
+    "city": "Cayuga County",
+    "state": "NY",
+    "url": "https://ecode360.com/CA2794",
+    "code": "CA2794"
+  },
+  {
+    "city": "City of Albany",
+    "state": "NY",
+    "url": "https://ecode360.com/AL0934",
+    "code": "AL0934"
+  },
+  {
+    "city": "City of Amsterdam",
+    "state": "NY",
+    "url": "https://ecode360.com/AM0234",
+    "code": "AM0234"
+  },
+  {
+    "city": "City of Auburn",
+    "state": "NY",
+    "url": "https://ecode360.com/AU1877",
+    "code": "AU1877"
+  },
+  {
+    "city": "City of Batavia",
+    "state": "NY",
+    "url": "https://ecode360.com/BA1824",
+    "code": "BA1824"
+  },
+  {
+    "city": "City of Beacon",
+    "state": "NY",
+    "url": "https://ecode360.com/BE0803",
+    "code": "BE0803"
+  },
+  {
+    "city": "City of Binghamton",
+    "state": "NY",
+    "url": "https://ecode360.com/BI1506",
+    "code": "BI1506"
+  },
+  {
+    "city": "City of Buffalo",
+    "state": "NY",
+    "url": "https://ecode360.com/BU1237",
+    "code": "BU1237"
+  },
+  {
+    "city": "City of Canandaigua",
+    "state": "NY",
+    "url": "https://ecode360.com/CA2661",
+    "code": "CA2661"
+  },
+  {
+    "city": "City of Cohoes",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0376",
+    "code": "CO0376"
+  },
+  {
+    "city": "City of Corning",
+    "state": "NY",
+    "url": "https://ecode360.com/CO1368",
+    "code": "CO1368"
+  },
+  {
+    "city": "City of Cortland",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0935",
+    "code": "CO0935"
+  },
+  {
+    "city": "City of Fulton",
+    "state": "NY",
+    "url": "https://ecode360.com/FU0049",
+    "code": "FU0049"
+  },
+  {
+    "city": "City of Geneva",
+    "state": "NY",
+    "url": "https://ecode360.com/GE1846",
+    "code": "GE1846"
+  },
+  {
+    "city": "City of Glen Cove",
+    "state": "NY",
+    "url": "https://ecode360.com/GL1564",
+    "code": "GL1564"
+  },
+  {
+    "city": "City of Glens Falls",
+    "state": "NY",
+    "url": "https://ecode360.com/GL0215",
+    "code": "GL0215"
+  },
+  {
+    "city": "City of Gloversville",
+    "state": "NY",
+    "url": "https://ecode360.com/GL0052",
+    "code": "GL0052"
+  },
+  {
+    "city": "City of Hornell",
+    "state": "NY",
+    "url": "https://ecode360.com/HO1346",
+    "code": "HO1346"
+  },
+  {
+    "city": "City of Hudson",
+    "state": "NY",
+    "url": "https://ecode360.com/HU0410",
+    "code": "HU0410"
+  },
+  {
+    "city": "City of Ithaca",
+    "state": "NY",
+    "url": "https://ecode360.com/IT1348",
+    "code": "IT1348"
+  },
+  {
+    "city": "City of Jamestown",
+    "state": "NY",
+    "url": "https://ecode360.com/JA1371",
+    "code": "JA1371"
+  },
+  {
+    "city": "City of Johnstown",
+    "state": "NY",
+    "url": "https://ecode360.com/JO1910",
+    "code": "JO1910"
+  },
+  {
+    "city": "City of Kingston",
+    "state": "NY",
+    "url": "https://ecode360.com/KI0280",
+    "code": "KI0280"
+  },
+  {
+    "city": "City of Lackawanna",
+    "state": "NY",
+    "url": "https://ecode360.com/LA1978",
+    "code": "LA1978"
+  },
+  {
+    "city": "City of Lockport",
+    "state": "NY",
+    "url": "https://ecode360.com/LO0777",
+    "code": "LO0777"
+  },
+  {
+    "city": "City of Middletown",
+    "state": "NY",
+    "url": "https://ecode360.com/MI0232",
+    "code": "MI0232"
+  },
+  {
+    "city": "City of Mount Vernon",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0742",
+    "code": "MO0742"
+  },
+  {
+    "city": "City of New Rochelle",
+    "state": "NY",
+    "url": "https://ecode360.com/NE0964",
+    "code": "NE0964"
+  },
+  {
+    "city": "City of Newburgh",
+    "state": "NY",
+    "url": "https://ecode360.com/NE1082",
+    "code": "NE1082"
+  },
+  {
+    "city": "City of North Tonawanda",
+    "state": "NY",
+    "url": "https://ecode360.com/NO0216",
+    "code": "NO0216"
+  },
+  {
+    "city": "City of Norwich",
+    "state": "NY",
+    "url": "https://ecode360.com/NO0235",
+    "code": "NO0235"
+  },
+  {
+    "city": "City of Ogdensburg",
+    "state": "NY",
+    "url": "https://ecode360.com/OG1342",
+    "code": "OG1342"
+  },
+  {
+    "city": "City of Olean",
+    "state": "NY",
+    "url": "https://ecode360.com/OL2074",
+    "code": "OL2074"
+  },
+  {
+    "city": "City of Oneida",
+    "state": "NY",
+    "url": "https://ecode360.com/ON1850",
+    "code": "ON1850"
+  },
+  {
+    "city": "City of Oneonta",
+    "state": "NY",
+    "url": "https://ecode360.com/ON1737",
+    "code": "ON1737"
+  },
+  {
+    "city": "City of Oswego",
+    "state": "NY",
+    "url": "https://ecode360.com/OS0092",
+    "code": "OS0092"
+  },
+  {
+    "city": "City of Peekskill",
+    "state": "NY",
+    "url": "https://ecode360.com/PE0161",
+    "code": "PE0161"
+  },
+  {
+    "city": "City of Plattsburgh",
+    "state": "NY",
+    "url": "https://ecode360.com/PL0920",
+    "code": "PL0920"
+  },
+  {
+    "city": "City of Port Jervis",
+    "state": "NY",
+    "url": "https://ecode360.com/PO0478",
+    "code": "PO0478"
+  },
+  {
+    "city": "City of Poughkeepsie",
+    "state": "NY",
+    "url": "https://ecode360.com/PO1408",
+    "code": "PO1408"
+  },
+  {
+    "city": "City of Rensselaer",
+    "state": "NY",
+    "url": "https://ecode360.com/RE1014",
+    "code": "RE1014"
+  },
+  {
+    "city": "City of Rochester",
+    "state": "NY",
+    "url": "https://ecode360.com/RO0104",
+    "code": "RO0104"
+  },
+  {
+    "city": "City of Rye",
+    "state": "NY",
+    "url": "https://ecode360.com/RY0730",
+    "code": "RY0730"
+  },
+  {
+    "city": "City of Salamanca",
+    "state": "NY",
+    "url": "https://ecode360.com/SA1603",
+    "code": "SA1603"
+  },
+  {
+    "city": "City of Saratoga Springs",
+    "state": "NY",
+    "url": "https://ecode360.com/SA0110",
+    "code": "SA0110"
+  },
+  {
+    "city": "City of Schenectady",
+    "state": "NY",
+    "url": "https://ecode360.com/SC0901",
+    "code": "SC0901"
+  },
+  {
+    "city": "City of Troy",
+    "state": "NY",
+    "url": "https://ecode360.com/TR1767",
+    "code": "TR1767"
+  },
+  {
+    "city": "City of Utica",
+    "state": "NY",
+    "url": "https://ecode360.com/UT2994",
+    "code": "UT2994"
+  },
+  {
+    "city": "City of Watertown",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0959",
+    "code": "WA0959"
+  },
+  {
+    "city": "City of Watervliet",
+    "state": "NY",
+    "url": "https://ecode360.com/WA1568",
+    "code": "WA1568"
+  },
+  {
+    "city": "City of Yonkers",
+    "state": "NY",
+    "url": "https://ecode360.com/YO0144",
+    "code": "YO0144"
+  },
+  {
+    "city": "Dutchess County",
+    "state": "NY",
+    "url": "https://ecode360.com/DU1148",
+    "code": "DU1148"
+  },
+  {
+    "city": "Fairport OCED",
+    "state": "NY",
+    "url": "https://ecode360.com/FA6731",
+    "code": "FA6731"
+  },
+  {
+    "city": "Monroe County",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0860",
+    "code": "MO0860"
+  },
+  {
+    "city": "Putnam County",
+    "state": "NY",
+    "url": "https://ecode360.com/PU1531",
+    "code": "PU1531"
+  },
+  {
+    "city": "Rockland County",
+    "state": "NY",
+    "url": "https://ecode360.com/RO1021",
+    "code": "RO1021"
+  },
+  {
+    "city": "Saratoga County",
+    "state": "NY",
+    "url": "https://ecode360.com/SA2068",
+    "code": "SA2068"
+  },
+  {
+    "city": "Suffolk County",
+    "state": "NY",
+    "url": "https://ecode360.com/SU0867",
+    "code": "SU0867"
+  },
+  {
+    "city": "Sullivan County",
+    "state": "NY",
+    "url": "https://ecode360.com/SU1732",
+    "code": "SU1732"
+  },
+  {
+    "city": "Tompkins County",
+    "state": "NY",
+    "url": "https://ecode360.com/TO1768",
+    "code": "TO1768"
+  },
+  {
+    "city": "Town of Albion",
+    "state": "NY",
+    "url": "https://ecode360.com/AL1125",
+    "code": "AL1125"
+  },
+  {
+    "city": "Town of Alden",
+    "state": "NY",
+    "url": "https://ecode360.com/AL0002",
+    "code": "AL0002"
+  },
+  {
+    "city": "Town of Amenia",
+    "state": "NY",
+    "url": "https://ecode360.com/AM1016",
+    "code": "AM1016"
+  },
+  {
+    "city": "Town of Amherst",
+    "state": "NY",
+    "url": "https://ecode360.com/AM0003",
+    "code": "AM0003"
+  },
+  {
+    "city": "Town of Ancram",
+    "state": "NY",
+    "url": "https://ecode360.com/AN3065",
+    "code": "AN3065"
+  },
+  {
+    "city": "Town of Athens",
+    "state": "NY",
+    "url": "https://ecode360.com/AT1724",
+    "code": "AT1724"
+  },
+  {
+    "city": "Town of Aurora",
+    "state": "NY",
+    "url": "https://ecode360.com/AU1109",
+    "code": "AU1109"
+  },
+  {
+    "city": "Town of Austerlitz",
+    "state": "NY",
+    "url": "https://ecode360.com/AU3009",
+    "code": "AU3009"
+  },
+  {
+    "city": "Town of Avon",
+    "state": "NY",
+    "url": "https://ecode360.com/AV1136",
+    "code": "AV1136"
+  },
+  {
+    "city": "Town of Babylon",
+    "state": "NY",
+    "url": "https://ecode360.com/BA0924",
+    "code": "BA0924"
+  },
+  {
+    "city": "Town of Ballston",
+    "state": "NY",
+    "url": "https://ecode360.com/BA1734",
+    "code": "BA1734"
+  },
+  {
+    "city": "Town of Barre",
+    "state": "NY",
+    "url": "https://ecode360.com/BA2836",
+    "code": "BA2836"
+  },
+  {
+    "city": "Town of Barton",
+    "state": "NY",
+    "url": "https://ecode360.com/BA1404",
+    "code": "BA1404"
+  },
+  {
+    "city": "Town of Batavia",
+    "state": "NY",
+    "url": "https://ecode360.com/BA1901",
+    "code": "BA1901"
+  },
+  {
+    "city": "Town of Bath",
+    "state": "NY",
+    "url": "https://ecode360.com/BA1080",
+    "code": "BA1080"
+  },
+  {
+    "city": "Town of Bedford",
+    "state": "NY",
+    "url": "https://ecode360.com/BE0790",
+    "code": "BE0790"
+  },
+  {
+    "city": "Town of Beekman",
+    "state": "NY",
+    "url": "https://ecode360.com/BE1259",
+    "code": "BE1259"
+  },
+  {
+    "city": "Town of Bergen",
+    "state": "NY",
+    "url": "https://ecode360.com/BE2866",
+    "code": "BE2866"
+  },
+  {
+    "city": "Town of Berne",
+    "state": "NY",
+    "url": "https://ecode360.com/BE2069",
+    "code": "BE2069"
+  },
+  {
+    "city": "Town of Bethel",
+    "state": "NY",
+    "url": "https://ecode360.com/BE0597",
+    "code": "BE0597"
+  },
+  {
+    "city": "Town of Bethlehem",
+    "state": "NY",
+    "url": "https://ecode360.com/BE1011",
+    "code": "BE1011"
+  },
+  {
+    "city": "Town of Binghamton",
+    "state": "NY",
+    "url": "https://ecode360.com/BI0332",
+    "code": "BI0332"
+  },
+  {
+    "city": "Town of Blooming Grove",
+    "state": "NY",
+    "url": "https://ecode360.com/BL1669",
+    "code": "BL1669"
+  },
+  {
+    "city": "Town of Bolton",
+    "state": "NY",
+    "url": "https://ecode360.com/BO1894",
+    "code": "BO1894"
+  },
+  {
+    "city": "Town of Boston",
+    "state": "NY",
+    "url": "https://ecode360.com/BO0557",
+    "code": "BO0557"
+  },
+  {
+    "city": "Town of Brant",
+    "state": "NY",
+    "url": "https://ecode360.com/BR0349",
+    "code": "BR0349"
+  },
+  {
+    "city": "Town of Brighton",
+    "state": "NY",
+    "url": "https://ecode360.com/BR0011",
+    "code": "BR0011"
+  },
+  {
+    "city": "Town of Bristol",
+    "state": "NY",
+    "url": "https://ecode360.com/BR4013",
+    "code": "BR4013"
+  },
+  {
+    "city": "Town of Brookhaven",
+    "state": "NY",
+    "url": "https://ecode360.com/BR0012",
+    "code": "BR0012"
+  },
+  {
+    "city": "Town of Brownville",
+    "state": "NY",
+    "url": "https://ecode360.com/BR0500",
+    "code": "BR0500"
+  },
+  {
+    "city": "Town of Brutus",
+    "state": "NY",
+    "url": "https://ecode360.com/BR1361",
+    "code": "BR1361"
+  },
+  {
+    "city": "Town of Busti",
+    "state": "NY",
+    "url": "https://ecode360.com/BU3048",
+    "code": "BU3048"
+  },
+  {
+    "city": "Town of Caledonia",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0014",
+    "code": "CA0014"
+  },
+  {
+    "city": "Town of Cambria",
+    "state": "NY",
+    "url": "https://ecode360.com/CA6686",
+    "code": "CA6686"
+  },
+  {
+    "city": "Town of Camden",
+    "state": "NY",
+    "url": "https://ecode360.com/CA4157",
+    "code": "CA4157"
+  },
+  {
+    "city": "Town of Canandaigua",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0614",
+    "code": "CA0614"
+  },
+  {
+    "city": "Town of Carmel",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0321",
+    "code": "CA0321"
+  },
+  {
+    "city": "Town of Cato",
+    "state": "NY",
+    "url": "https://ecode360.com/CA1278",
+    "code": "CA1278"
+  },
+  {
+    "city": "Town of Catskill",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0628",
+    "code": "CA0628"
+  },
+  {
+    "city": "Town of Cazenovia",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0021",
+    "code": "CA0021"
+  },
+  {
+    "city": "Town of Champlain",
+    "state": "NY",
+    "url": "https://ecode360.com/CH1029",
+    "code": "CH1029"
+  },
+  {
+    "city": "Town of Chatham",
+    "state": "NY",
+    "url": "https://ecode360.com/CH1668",
+    "code": "CH1668"
+  },
+  {
+    "city": "Town of Chautauqua",
+    "state": "NY",
+    "url": "https://ecode360.com/CH1389",
+    "code": "CH1389"
+  },
+  {
+    "city": "Town of Cheektowaga",
+    "state": "NY",
+    "url": "https://ecode360.com/CH0381",
+    "code": "CH0381"
+  },
+  {
+    "city": "Town of Chenango",
+    "state": "NY",
+    "url": "https://ecode360.com/CH0439",
+    "code": "CH0439"
+  },
+  {
+    "city": "Town of Chester",
+    "state": "NY",
+    "url": "https://ecode360.com/CH0648",
+    "code": "CH0648"
+  },
+  {
+    "city": "Town of Chili",
+    "state": "NY",
+    "url": "https://ecode360.com/CH0024",
+    "code": "CH0024"
+  },
+  {
+    "city": "Town of Cicero",
+    "state": "NY",
+    "url": "https://ecode360.com/CI1861",
+    "code": "CI1861"
+  },
+  {
+    "city": "Town of Clarence",
+    "state": "NY",
+    "url": "https://ecode360.com/CL0026",
+    "code": "CL0026"
+  },
+  {
+    "city": "Town of Clarkson",
+    "state": "NY",
+    "url": "https://ecode360.com/CL0027",
+    "code": "CL0027"
+  },
+  {
+    "city": "Town of Clarkstown",
+    "state": "NY",
+    "url": "https://ecode360.com/CL0028",
+    "code": "CL0028"
+  },
+  {
+    "city": "Town of Claverack",
+    "state": "NY",
+    "url": "https://ecode360.com/CL3187",
+    "code": "CL3187"
+  },
+  {
+    "city": "Town of Clay",
+    "state": "NY",
+    "url": "https://ecode360.com/CL1598",
+    "code": "CL1598"
+  },
+  {
+    "city": "Town of Clayton",
+    "state": "NY",
+    "url": "https://ecode360.com/CL3056",
+    "code": "CL3056"
+  },
+  {
+    "city": "Town of Clifton Park",
+    "state": "NY",
+    "url": "https://ecode360.com/CL1051",
+    "code": "CL1051"
+  },
+  {
+    "city": "Town of Clinton",
+    "state": "NY",
+    "url": "https://ecode360.com/CL1589",
+    "code": "CL1589"
+  },
+  {
+    "city": "Town of Cobleskill",
+    "state": "NY",
+    "url": "https://ecode360.com/CO2116",
+    "code": "CO2116"
+  },
+  {
+    "city": "Town of Cochecton",
+    "state": "NY",
+    "url": "https://ecode360.com/CO3144",
+    "code": "CO3144"
+  },
+  {
+    "city": "Town of Coeymans",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0785",
+    "code": "CO0785"
+  },
+  {
+    "city": "Town of Colden",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0951",
+    "code": "CO0951"
+  },
+  {
+    "city": "Town of Collins",
+    "state": "NY",
+    "url": "https://ecode360.com/CO2912",
+    "code": "CO2912"
+  },
+  {
+    "city": "Town of Colonie",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0780",
+    "code": "CO0780"
+  },
+  {
+    "city": "Town of Colton",
+    "state": "NY",
+    "url": "https://ecode360.com/CO2138",
+    "code": "CO2138"
+  },
+  {
+    "city": "Town of Concord",
+    "state": "NY",
+    "url": "https://ecode360.com/CO1501",
+    "code": "CO1501"
+  },
+  {
+    "city": "Town of Conesus",
+    "state": "NY",
+    "url": "https://ecode360.com/CO1949",
+    "code": "CO1949"
+  },
+  {
+    "city": "Town of Copake",
+    "state": "NY",
+    "url": "https://ecode360.com/CO1534",
+    "code": "CO1534"
+  },
+  {
+    "city": "Town of Corinth",
+    "state": "NY",
+    "url": "https://ecode360.com/CO1533",
+    "code": "CO1533"
+  },
+  {
+    "city": "Town of Cornwall",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0034",
+    "code": "CO0034"
+  },
+  {
+    "city": "Town of Cortlandt",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0244",
+    "code": "CO0244"
+  },
+  {
+    "city": "Town of Cortlandville",
+    "state": "NY",
+    "url": "https://ecode360.com/CO1314",
+    "code": "CO1314"
+  },
+  {
+    "city": "Town of Coxsackie",
+    "state": "NY",
+    "url": "https://ecode360.com/CO1196",
+    "code": "CO1196"
+  },
+  {
+    "city": "Town of Crawford",
+    "state": "NY",
+    "url": "https://ecode360.com/CR0817",
+    "code": "CR0817"
+  },
+  {
+    "city": "Town of DeWitt",
+    "state": "NY",
+    "url": "https://ecode360.com/DE0337",
+    "code": "DE0337"
+  },
+  {
+    "city": "Town of Deerpark",
+    "state": "NY",
+    "url": "https://ecode360.com/DE0596",
+    "code": "DE0596"
+  },
+  {
+    "city": "Town of Delaware",
+    "state": "NY",
+    "url": "https://ecode360.com/DE3566",
+    "code": "DE3566"
+  },
+  {
+    "city": "Town of Dickinson",
+    "state": "NY",
+    "url": "https://ecode360.com/DI0705",
+    "code": "DI0705"
+  },
+  {
+    "city": "Town of Dover",
+    "state": "NY",
+    "url": "https://ecode360.com/DO1139",
+    "code": "DO1139"
+  },
+  {
+    "city": "Town of Dryden",
+    "state": "NY",
+    "url": "https://ecode360.com/DR3901",
+    "code": "DR3901"
+  },
+  {
+    "city": "Town of East Bloomfield",
+    "state": "NY",
+    "url": "https://ecode360.com/EA1606",
+    "code": "EA1606"
+  },
+  {
+    "city": "Town of East Fishkill",
+    "state": "NY",
+    "url": "https://ecode360.com/EA0495",
+    "code": "EA0495"
+  },
+  {
+    "city": "Town of East Greenbush",
+    "state": "NY",
+    "url": "https://ecode360.com/EA0039",
+    "code": "EA0039"
+  },
+  {
+    "city": "Town of East Hampton",
+    "state": "NY",
+    "url": "https://ecode360.com/EA0658",
+    "code": "EA0658"
+  },
+  {
+    "city": "Town of Eaton",
+    "state": "NY",
+    "url": "https://ecode360.com/EA1670",
+    "code": "EA1670"
+  },
+  {
+    "city": "Town of Eden",
+    "state": "NY",
+    "url": "https://ecode360.com/ED1729",
+    "code": "ED1729"
+  },
+  {
+    "city": "Town of Elbridge",
+    "state": "NY",
+    "url": "https://ecode360.com/EL1801",
+    "code": "EL1801"
+  },
+  {
+    "city": "Town of Ellicott",
+    "state": "NY",
+    "url": "https://ecode360.com/EL0042",
+    "code": "EL0042"
+  },
+  {
+    "city": "Town of Elma",
+    "state": "NY",
+    "url": "https://ecode360.com/EL0765",
+    "code": "EL0765"
+  },
+  {
+    "city": "Town of Elmira",
+    "state": "NY",
+    "url": "https://ecode360.com/EL2935",
+    "code": "EL2935"
+  },
+  {
+    "city": "Town of Esopus",
+    "state": "NY",
+    "url": "https://ecode360.com/ES0782",
+    "code": "ES0782"
+  },
+  {
+    "city": "Town of Evans",
+    "state": "NY",
+    "url": "https://ecode360.com/EV0044",
+    "code": "EV0044"
+  },
+  {
+    "city": "Town of Fabius",
+    "state": "NY",
+    "url": "https://ecode360.com/FA3977",
+    "code": "FA3977"
+  },
+  {
+    "city": "Town of Fallsburg",
+    "state": "NY",
+    "url": "https://ecode360.com/FA1866",
+    "code": "FA1866"
+  },
+  {
+    "city": "Town of Farmington",
+    "state": "NY",
+    "url": "https://ecode360.com/FA0309",
+    "code": "FA0309"
+  },
+  {
+    "city": "Town of Fenton",
+    "state": "NY",
+    "url": "https://ecode360.com/FE1565",
+    "code": "FE1565"
+  },
+  {
+    "city": "Town of Fishkill",
+    "state": "NY",
+    "url": "https://ecode360.com/FI0709",
+    "code": "FI0709"
+  },
+  {
+    "city": "Town of Forestburgh",
+    "state": "NY",
+    "url": "https://ecode360.com/FO0593",
+    "code": "FO0593"
+  },
+  {
+    "city": "Town of Fort Edward",
+    "state": "NY",
+    "url": "https://ecode360.com/FO0047",
+    "code": "FO0047"
+  },
+  {
+    "city": "Town of Frankfort",
+    "state": "NY",
+    "url": "https://ecode360.com/FR0933",
+    "code": "FR0933"
+  },
+  {
+    "city": "Town of Galway",
+    "state": "NY",
+    "url": "https://ecode360.com/GA1504",
+    "code": "GA1504"
+  },
+  {
+    "city": "Town of Gardiner",
+    "state": "NY",
+    "url": "https://ecode360.com/GA1939",
+    "code": "GA1939"
+  },
+  {
+    "city": "Town of Gates",
+    "state": "NY",
+    "url": "https://ecode360.com/GA0050",
+    "code": "GA0050"
+  },
+  {
+    "city": "Town of Geddes",
+    "state": "NY",
+    "url": "https://ecode360.com/GE0377",
+    "code": "GE0377"
+  },
+  {
+    "city": "Town of Geneseo",
+    "state": "NY",
+    "url": "https://ecode360.com/GE1141",
+    "code": "GE1141"
+  },
+  {
+    "city": "Town of Geneva",
+    "state": "NY",
+    "url": "https://ecode360.com/GE1637",
+    "code": "GE1637"
+  },
+  {
+    "city": "Town of Ghent",
+    "state": "NY",
+    "url": "https://ecode360.com/GH1743",
+    "code": "GH1743"
+  },
+  {
+    "city": "Town of Glenville",
+    "state": "NY",
+    "url": "https://ecode360.com/GL0172",
+    "code": "GL0172"
+  },
+  {
+    "city": "Town of Goshen",
+    "state": "NY",
+    "url": "https://ecode360.com/GO0551",
+    "code": "GO0551"
+  },
+  {
+    "city": "Town of Grand Island",
+    "state": "NY",
+    "url": "https://ecode360.com/GR0053",
+    "code": "GR0053"
+  },
+  {
+    "city": "Town of Greece",
+    "state": "NY",
+    "url": "https://ecode360.com/GR0054",
+    "code": "GR0054"
+  },
+  {
+    "city": "Town of Greenburgh",
+    "state": "NY",
+    "url": "https://ecode360.com/GR0237",
+    "code": "GR0237"
+  },
+  {
+    "city": "Town of Greenfield",
+    "state": "NY",
+    "url": "https://ecode360.com/GR1147",
+    "code": "GR1147"
+  },
+  {
+    "city": "Town of Greenport",
+    "state": "NY",
+    "url": "https://ecode360.com/GR0644",
+    "code": "GR0644"
+  },
+  {
+    "city": "Town of Greenville",
+    "state": "NY",
+    "url": "https://ecode360.com/GR2967",
+    "code": "GR2967"
+  },
+  {
+    "city": "Town of Greenville",
+    "state": "NY",
+    "url": "https://ecode360.com/GR1575",
+    "code": "GR1575"
+  },
+  {
+    "city": "Town of Greenwich",
+    "state": "NY",
+    "url": "https://ecode360.com/GR2077",
+    "code": "GR2077"
+  },
+  {
+    "city": "Town of Guilderland",
+    "state": "NY",
+    "url": "https://ecode360.com/GU1600",
+    "code": "GU1600"
+  },
+  {
+    "city": "Town of Hague",
+    "state": "NY",
+    "url": "https://ecode360.com/HA1590",
+    "code": "HA1590"
+  },
+  {
+    "city": "Town of Halfmoon",
+    "state": "NY",
+    "url": "https://ecode360.com/HA2075",
+    "code": "HA2075"
+  },
+  {
+    "city": "Town of Hamburg",
+    "state": "NY",
+    "url": "https://ecode360.com/HA0055",
+    "code": "HA0055"
+  },
+  {
+    "city": "Town of Hamlin",
+    "state": "NY",
+    "url": "https://ecode360.com/HA0223",
+    "code": "HA0223"
+  },
+  {
+    "city": "Town of Hamptonburgh",
+    "state": "NY",
+    "url": "https://ecode360.com/HA0701",
+    "code": "HA0701"
+  },
+  {
+    "city": "Town of Hancock",
+    "state": "NY",
+    "url": "https://ecode360.com/HA6727",
+    "code": "HA6727"
+  },
+  {
+    "city": "Town of Hartford",
+    "state": "NY",
+    "url": "https://ecode360.com/HA3152",
+    "code": "HA3152"
+  },
+  {
+    "city": "Town of Hartland",
+    "state": "NY",
+    "url": "https://ecode360.com/HA0923",
+    "code": "HA0923"
+  },
+  {
+    "city": "Town of Haverstraw",
+    "state": "NY",
+    "url": "https://ecode360.com/HA0214",
+    "code": "HA0214"
+  },
+  {
+    "city": "Town of Hempstead BZO",
+    "state": "NY",
+    "url": "https://ecode360.com/HE0972",
+    "code": "HE0972"
+  },
+  {
+    "city": "Town of Hempstead",
+    "state": "NY",
+    "url": "https://ecode360.com/HE0207",
+    "code": "HE0207"
+  },
+  {
+    "city": "Town of Henrietta",
+    "state": "NY",
+    "url": "https://ecode360.com/HE0056",
+    "code": "HE0056"
+  },
+  {
+    "city": "Town of Highland",
+    "state": "NY",
+    "url": "https://ecode360.com/HI2985",
+    "code": "HI2985"
+  },
+  {
+    "city": "Town of Highlands",
+    "state": "NY",
+    "url": "https://ecode360.com/HI1566",
+    "code": "HI1566"
+  },
+  {
+    "city": "Town of Hillsdale",
+    "state": "NY",
+    "url": "https://ecode360.com/HI4009",
+    "code": "HI4009"
+  },
+  {
+    "city": "Town of Holland",
+    "state": "NY",
+    "url": "https://ecode360.com/HO1067",
+    "code": "HO1067"
+  },
+  {
+    "city": "Town of Hoosick",
+    "state": "NY",
+    "url": "https://ecode360.com/HO4174",
+    "code": "HO4174"
+  },
+  {
+    "city": "Town of Horseheads",
+    "state": "NY",
+    "url": "https://ecode360.com/HO1494",
+    "code": "HO1494"
+  },
+  {
+    "city": "Town of Huntington",
+    "state": "NY",
+    "url": "https://ecode360.com/HU0566",
+    "code": "HU0566"
+  },
+  {
+    "city": "Town of Hurley",
+    "state": "NY",
+    "url": "https://ecode360.com/HU1421",
+    "code": "HU1421"
+  },
+  {
+    "city": "Town of Hyde Park",
+    "state": "NY",
+    "url": "https://ecode360.com/HY0660",
+    "code": "HY0660"
+  },
+  {
+    "city": "Town of Inlet",
+    "state": "NY",
+    "url": "https://ecode360.com/IN2254",
+    "code": "IN2254"
+  },
+  {
+    "city": "Town of Irondequoit",
+    "state": "NY",
+    "url": "https://ecode360.com/IR0059",
+    "code": "IR0059"
+  },
+  {
+    "city": "Town of Islip",
+    "state": "NY",
+    "url": "https://ecode360.com/IS0324",
+    "code": "IS0324"
+  },
+  {
+    "city": "Town of Italy",
+    "state": "NY",
+    "url": "https://ecode360.com/IT2877",
+    "code": "IT2877"
+  },
+  {
+    "city": "Town of Ithaca",
+    "state": "NY",
+    "url": "https://ecode360.com/IT1944",
+    "code": "IT1944"
+  },
+  {
+    "city": "Town of Jerusalem",
+    "state": "NY",
+    "url": "https://ecode360.com/JE1224",
+    "code": "JE1224"
+  },
+  {
+    "city": "Town of Johnstown",
+    "state": "NY",
+    "url": "https://ecode360.com/JO0834",
+    "code": "JO0834"
+  },
+  {
+    "city": "Town of Kendall",
+    "state": "NY",
+    "url": "https://ecode360.com/KE2973",
+    "code": "KE2973"
+  },
+  {
+    "city": "Town of Kent",
+    "state": "NY",
+    "url": "https://ecode360.com/KE0418",
+    "code": "KE0418"
+  },
+  {
+    "city": "Town of Kinderhook",
+    "state": "NY",
+    "url": "https://ecode360.com/KI0583",
+    "code": "KI0583"
+  },
+  {
+    "city": "Town of Kingsbury",
+    "state": "NY",
+    "url": "https://ecode360.com/KI0871",
+    "code": "KI0871"
+  },
+  {
+    "city": "Town of Kingston",
+    "state": "NY",
+    "url": "https://ecode360.com/KI2847",
+    "code": "KI2847"
+  },
+  {
+    "city": "Town of LaGrange",
+    "state": "NY",
+    "url": "https://ecode360.com/LA0563",
+    "code": "LA0563"
+  },
+  {
+    "city": "Town of Lafayette",
+    "state": "NY",
+    "url": "https://ecode360.com/LA3588",
+    "code": "LA3588"
+  },
+  {
+    "city": "Town of Lake George",
+    "state": "NY",
+    "url": "https://ecode360.com/LA1393",
+    "code": "LA1393"
+  },
+  {
+    "city": "Town of Lancaster",
+    "state": "NY",
+    "url": "https://ecode360.com/LA0177",
+    "code": "LA0177"
+  },
+  {
+    "city": "Town of Lansing",
+    "state": "NY",
+    "url": "https://ecode360.com/LA2647",
+    "code": "LA2647"
+  },
+  {
+    "city": "Town of LeRay",
+    "state": "NY",
+    "url": "https://ecode360.com/LE1882",
+    "code": "LE1882"
+  },
+  {
+    "city": "Town of LeRoy",
+    "state": "NY",
+    "url": "https://ecode360.com/LE1131",
+    "code": "LE1131"
+  },
+  {
+    "city": "Town of Lenox",
+    "state": "NY",
+    "url": "https://ecode360.com/LE0354",
+    "code": "LE0354"
+  },
+  {
+    "city": "Town of Lewisboro",
+    "state": "NY",
+    "url": "https://ecode360.com/LE1300",
+    "code": "LE1300"
+  },
+  {
+    "city": "Town of Lewiston",
+    "state": "NY",
+    "url": "https://ecode360.com/LE0061",
+    "code": "LE0061"
+  },
+  {
+    "city": "Town of Liberty",
+    "state": "NY",
+    "url": "https://ecode360.com/LI0552",
+    "code": "LI0552"
+  },
+  {
+    "city": "Town of Lima",
+    "state": "NY",
+    "url": "https://ecode360.com/LI1605",
+    "code": "LI1605"
+  },
+  {
+    "city": "Town of Little Valley",
+    "state": "NY",
+    "url": "https://ecode360.com/LI3091",
+    "code": "LI3091"
+  },
+  {
+    "city": "Town of Livonia",
+    "state": "NY",
+    "url": "https://ecode360.com/LI0308",
+    "code": "LI0308"
+  },
+  {
+    "city": "Town of Lloyd",
+    "state": "NY",
+    "url": "https://ecode360.com/LL0645",
+    "code": "LL0645"
+  },
+  {
+    "city": "Town of Lockport",
+    "state": "NY",
+    "url": "https://ecode360.com/LO1992",
+    "code": "LO1992"
+  },
+  {
+    "city": "Town of Lowville",
+    "state": "NY",
+    "url": "https://ecode360.com/LO1448",
+    "code": "LO1448"
+  },
+  {
+    "city": "Town of Lumberland",
+    "state": "NY",
+    "url": "https://ecode360.com/LU3128",
+    "code": "LU3128"
+  },
+  {
+    "city": "Town of Lyons",
+    "state": "NY",
+    "url": "https://ecode360.com/LY3853",
+    "code": "LY3853"
+  },
+  {
+    "city": "Town of Lysander",
+    "state": "NY",
+    "url": "https://ecode360.com/LY0932",
+    "code": "LY0932"
+  },
+  {
+    "city": "Town of Macedon",
+    "state": "NY",
+    "url": "https://ecode360.com/MA1436",
+    "code": "MA1436"
+  },
+  {
+    "city": "Town of Maine",
+    "state": "NY",
+    "url": "https://ecode360.com/MA2200",
+    "code": "MA2200"
+  },
+  {
+    "city": "Town of Malta",
+    "state": "NY",
+    "url": "https://ecode360.com/MA1379",
+    "code": "MA1379"
+  },
+  {
+    "city": "Town of Mamakating",
+    "state": "NY",
+    "url": "https://ecode360.com/MA1270",
+    "code": "MA1270"
+  },
+  {
+    "city": "Town of Mamaroneck",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0239",
+    "code": "MA0239"
+  },
+  {
+    "city": "Town of Manchester",
+    "state": "NY",
+    "url": "https://ecode360.com/MA1025",
+    "code": "MA1025"
+  },
+  {
+    "city": "Town of Manlius",
+    "state": "NY",
+    "url": "https://ecode360.com/MA1592",
+    "code": "MA1592"
+  },
+  {
+    "city": "Town of Marbletown",
+    "state": "NY",
+    "url": "https://ecode360.com/MA1321",
+    "code": "MA1321"
+  },
+  {
+    "city": "Town of Marcellus",
+    "state": "NY",
+    "url": "https://ecode360.com/MA3903",
+    "code": "MA3903"
+  },
+  {
+    "city": "Town of Marilla",
+    "state": "NY",
+    "url": "https://ecode360.com/MA1758",
+    "code": "MA1758"
+  },
+  {
+    "city": "Town of Marion",
+    "state": "NY",
+    "url": "https://ecode360.com/MA3574",
+    "code": "MA3574"
+  },
+  {
+    "city": "Town of Marlborough",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0587",
+    "code": "MA0587"
+  },
+  {
+    "city": "Town of Martinsburg",
+    "state": "NY",
+    "url": "https://ecode360.com/MA3054",
+    "code": "MA3054"
+  },
+  {
+    "city": "Town of Massena",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0639",
+    "code": "MA0639"
+  },
+  {
+    "city": "Town of Mendon",
+    "state": "NY",
+    "url": "https://ecode360.com/ME0067",
+    "code": "ME0067"
+  },
+  {
+    "city": "Town of Milan",
+    "state": "NY",
+    "url": "https://ecode360.com/MI1453",
+    "code": "MI1453"
+  },
+  {
+    "city": "Town of Milo",
+    "state": "NY",
+    "url": "https://ecode360.com/MI1633",
+    "code": "MI1633"
+  },
+  {
+    "city": "Town of Milton",
+    "state": "NY",
+    "url": "https://ecode360.com/MI1539",
+    "code": "MI1539"
+  },
+  {
+    "city": "Town of Minden",
+    "state": "NY",
+    "url": "https://ecode360.com/MI1862",
+    "code": "MI1862"
+  },
+  {
+    "city": "Town of Monroe",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0402",
+    "code": "MO0402"
+  },
+  {
+    "city": "Town of Montgomery",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0967",
+    "code": "MO0967"
+  },
+  {
+    "city": "Town of Montour",
+    "state": "NY",
+    "url": "https://ecode360.com/MO3644",
+    "code": "MO3644"
+  },
+  {
+    "city": "Town of Moreau",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0071",
+    "code": "MO0071"
+  },
+  {
+    "city": "Town of Mount Hope",
+    "state": "NY",
+    "url": "https://ecode360.com/MO3540",
+    "code": "MO3540"
+  },
+  {
+    "city": "Town of Mount Morris",
+    "state": "NY",
+    "url": "https://ecode360.com/MO1094",
+    "code": "MO1094"
+  },
+  {
+    "city": "Town of Mount Pleasant",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0299",
+    "code": "MO0299"
+  },
+  {
+    "city": "Town of Naples",
+    "state": "NY",
+    "url": "https://ecode360.com/NA1863",
+    "code": "NA1863"
+  },
+  {
+    "city": "Town of Neversink",
+    "state": "NY",
+    "url": "https://ecode360.com/NE0768",
+    "code": "NE0768"
+  },
+  {
+    "city": "Town of New Berlin",
+    "state": "NY",
+    "url": "https://ecode360.com/NE1483",
+    "code": "NE1483"
+  },
+  {
+    "city": "Town of New Castle",
+    "state": "NY",
+    "url": "https://ecode360.com/NE0395",
+    "code": "NE0395"
+  },
+  {
+    "city": "Town of New Hartford",
+    "state": "NY",
+    "url": "https://ecode360.com/NE0673",
+    "code": "NE0673"
+  },
+  {
+    "city": "Town of New Lebanon",
+    "state": "NY",
+    "url": "https://ecode360.com/NE1814",
+    "code": "NE1814"
+  },
+  {
+    "city": "Town of New Paltz",
+    "state": "NY",
+    "url": "https://ecode360.com/NE1058",
+    "code": "NE1058"
+  },
+  {
+    "city": "Town of New Windsor",
+    "state": "NY",
+    "url": "https://ecode360.com/NE0078",
+    "code": "NE0078"
+  },
+  {
+    "city": "Town of Newburgh",
+    "state": "NY",
+    "url": "https://ecode360.com/NE0074",
+    "code": "NE0074"
+  },
+  {
+    "city": "Town of Newfane",
+    "state": "NY",
+    "url": "https://ecode360.com/NE0384",
+    "code": "NE0384"
+  },
+  {
+    "city": "Town of Newstead",
+    "state": "NY",
+    "url": "https://ecode360.com/NE1143",
+    "code": "NE1143"
+  },
+  {
+    "city": "Town of Niagara",
+    "state": "NY",
+    "url": "https://ecode360.com/NI0431",
+    "code": "NI0431"
+  },
+  {
+    "city": "Town of Nichols",
+    "state": "NY",
+    "url": "https://ecode360.com/NI2943",
+    "code": "NI2943"
+  },
+  {
+    "city": "Town of Niles",
+    "state": "NY",
+    "url": "https://ecode360.com/NI1781",
+    "code": "NI1781"
+  },
+  {
+    "city": "Town of Niskayuna",
+    "state": "NY",
+    "url": "https://ecode360.com/NI0974",
+    "code": "NI0974"
+  },
+  {
+    "city": "Town of North Castle",
+    "state": "NY",
+    "url": "https://ecode360.com/NO0492",
+    "code": "NO0492"
+  },
+  {
+    "city": "Town of North Collins",
+    "state": "NY",
+    "url": "https://ecode360.com/NO1305",
+    "code": "NO1305"
+  },
+  {
+    "city": "Town of North East",
+    "state": "NY",
+    "url": "https://ecode360.com/NO0666",
+    "code": "NO0666"
+  },
+  {
+    "city": "Town of North Greenbush",
+    "state": "NY",
+    "url": "https://ecode360.com/NO0677",
+    "code": "NO0677"
+  },
+  {
+    "city": "Town of North Hempstead",
+    "state": "NY",
+    "url": "https://ecode360.com/NO0081",
+    "code": "NO0081"
+  },
+  {
+    "city": "Town of North Salem",
+    "state": "NY",
+    "url": "https://ecode360.com/NO1178",
+    "code": "NO1178"
+  },
+  {
+    "city": "Town of Ogden",
+    "state": "NY",
+    "url": "https://ecode360.com/OG0089",
+    "code": "OG0089"
+  },
+  {
+    "city": "Town of Olive",
+    "state": "NY",
+    "url": "https://ecode360.com/OL1834",
+    "code": "OL1834"
+  },
+  {
+    "city": "Town of Oneonta",
+    "state": "NY",
+    "url": "https://ecode360.com/ON0907",
+    "code": "ON0907"
+  },
+  {
+    "city": "Town of Onondaga",
+    "state": "NY",
+    "url": "https://ecode360.com/ON0090",
+    "code": "ON0090"
+  },
+  {
+    "city": "Town of Ontario",
+    "state": "NY",
+    "url": "https://ecode360.com/ON0420",
+    "code": "ON0420"
+  },
+  {
+    "city": "Town of Orangetown",
+    "state": "NY",
+    "url": "https://ecode360.com/OR0091",
+    "code": "OR0091"
+  },
+  {
+    "city": "Town of Orchard Park",
+    "state": "NY",
+    "url": "https://ecode360.com/OR0980",
+    "code": "OR0980"
+  },
+  {
+    "city": "Town of Ossining",
+    "state": "NY",
+    "url": "https://ecode360.com/OS0797",
+    "code": "OS0797"
+  },
+  {
+    "city": "Town of Owasco",
+    "state": "NY",
+    "url": "https://ecode360.com/OW0921",
+    "code": "OW0921"
+  },
+  {
+    "city": "Town of Owego",
+    "state": "NY",
+    "url": "https://ecode360.com/OW0781",
+    "code": "OW0781"
+  },
+  {
+    "city": "Town of Oyster Bay",
+    "state": "NY",
+    "url": "https://ecode360.com/OY1221",
+    "code": "OY1221"
+  },
+  {
+    "city": "Town of Parma",
+    "state": "NY",
+    "url": "https://ecode360.com/PA0391",
+    "code": "PA0391"
+  },
+  {
+    "city": "Town of Pawling",
+    "state": "NY",
+    "url": "https://ecode360.com/PA0446",
+    "code": "PA0446"
+  },
+  {
+    "city": "Town of Pendleton",
+    "state": "NY",
+    "url": "https://ecode360.com/PE1345",
+    "code": "PE1345"
+  },
+  {
+    "city": "Town of Penfield",
+    "state": "NY",
+    "url": "https://ecode360.com/PE0095",
+    "code": "PE0095"
+  },
+  {
+    "city": "Town of Perinton",
+    "state": "NY",
+    "url": "https://ecode360.com/PE0097",
+    "code": "PE0097"
+  },
+  {
+    "city": "Town of Phelps",
+    "state": "NY",
+    "url": "https://ecode360.com/PH1430",
+    "code": "PH1430"
+  },
+  {
+    "city": "Town of Philipstown",
+    "state": "NY",
+    "url": "https://ecode360.com/PH1134",
+    "code": "PH1134"
+  },
+  {
+    "city": "Town of Pierrepont",
+    "state": "NY",
+    "url": "https://ecode360.com/PI6589",
+    "code": "PI6589"
+  },
+  {
+    "city": "Town of Pine Plains",
+    "state": "NY",
+    "url": "https://ecode360.com/PI3655",
+    "code": "PI3655"
+  },
+  {
+    "city": "Town of Pittsford",
+    "state": "NY",
+    "url": "https://ecode360.com/PI1657",
+    "code": "PI1657"
+  },
+  {
+    "city": "Town of Plattekill",
+    "state": "NY",
+    "url": "https://ecode360.com/PL1069",
+    "code": "PL1069"
+  },
+  {
+    "city": "Town of Pleasant Valley",
+    "state": "NY",
+    "url": "https://ecode360.com/PL0575",
+    "code": "PL0575"
+  },
+  {
+    "city": "Town of Poestenkill",
+    "state": "NY",
+    "url": "https://ecode360.com/PO0866",
+    "code": "PO0866"
+  },
+  {
+    "city": "Town of Pompey",
+    "state": "NY",
+    "url": "https://ecode360.com/PO1491",
+    "code": "PO1491"
+  },
+  {
+    "city": "Town of Porter",
+    "state": "NY",
+    "url": "https://ecode360.com/PO2986",
+    "code": "PO2986"
+  },
+  {
+    "city": "Town of Potsdam",
+    "state": "NY",
+    "url": "https://ecode360.com/PO1013",
+    "code": "PO1013"
+  },
+  {
+    "city": "Town of Poughkeepsie",
+    "state": "NY",
+    "url": "https://ecode360.com/PO1462",
+    "code": "PO1462"
+  },
+  {
+    "city": "Town of Pound Ridge",
+    "state": "NY",
+    "url": "https://ecode360.com/PO0893",
+    "code": "PO0893"
+  },
+  {
+    "city": "Town of Putnam Valley",
+    "state": "NY",
+    "url": "https://ecode360.com/PU0242",
+    "code": "PU0242"
+  },
+  {
+    "city": "Town of Queensbury",
+    "state": "NY",
+    "url": "https://ecode360.com/QU1252",
+    "code": "QU1252"
+  },
+  {
+    "city": "Town of Ramapo",
+    "state": "NY",
+    "url": "https://ecode360.com/RA0101",
+    "code": "RA0101"
+  },
+  {
+    "city": "Town of Red Hook",
+    "state": "NY",
+    "url": "https://ecode360.com/RE0424",
+    "code": "RE0424"
+  },
+  {
+    "city": "Town of Rhinebeck",
+    "state": "NY",
+    "url": "https://ecode360.com/RH0960",
+    "code": "RH0960"
+  },
+  {
+    "city": "Town of Richmond",
+    "state": "NY",
+    "url": "https://ecode360.com/RI1771",
+    "code": "RI1771"
+  },
+  {
+    "city": "Town of Riga",
+    "state": "NY",
+    "url": "https://ecode360.com/RI0725",
+    "code": "RI0725"
+  },
+  {
+    "city": "Town of Riverhead",
+    "state": "NY",
+    "url": "https://ecode360.com/RI0508",
+    "code": "RI0508"
+  },
+  {
+    "city": "Town of Rochester",
+    "state": "NY",
+    "url": "https://ecode360.com/RO1435",
+    "code": "RO1435"
+  },
+  {
+    "city": "Town of Rockland",
+    "state": "NY",
+    "url": "https://ecode360.com/RO1679",
+    "code": "RO1679"
+  },
+  {
+    "city": "Town of Rosendale",
+    "state": "NY",
+    "url": "https://ecode360.com/RO0511",
+    "code": "RO0511"
+  },
+  {
+    "city": "Town of Rotterdam",
+    "state": "NY",
+    "url": "https://ecode360.com/RO0175",
+    "code": "RO0175"
+  },
+  {
+    "city": "Town of Royalton",
+    "state": "NY",
+    "url": "https://ecode360.com/RO3169",
+    "code": "RO3169"
+  },
+  {
+    "city": "Town of Rush",
+    "state": "NY",
+    "url": "https://ecode360.com/RU0105",
+    "code": "RU0105"
+  },
+  {
+    "city": "Town of Rye",
+    "state": "NY",
+    "url": "https://ecode360.com/RY0107",
+    "code": "RY0107"
+  },
+  {
+    "city": "Town of Salina",
+    "state": "NY",
+    "url": "https://ecode360.com/SA0325",
+    "code": "SA0325"
+  },
+  {
+    "city": "Town of Sand Lake",
+    "state": "NY",
+    "url": "https://ecode360.com/SA1559",
+    "code": "SA1559"
+  },
+  {
+    "city": "Town of Saratoga",
+    "state": "NY",
+    "url": "https://ecode360.com/SA2195",
+    "code": "SA2195"
+  },
+  {
+    "city": "Town of Sardinia",
+    "state": "NY",
+    "url": "https://ecode360.com/SA1170",
+    "code": "SA1170"
+  },
+  {
+    "city": "Town of Saugerties",
+    "state": "NY",
+    "url": "https://ecode360.com/SA2874",
+    "code": "SA2874"
+  },
+  {
+    "city": "Town of Schaghticoke",
+    "state": "NY",
+    "url": "https://ecode360.com/SC1145",
+    "code": "SC1145"
+  },
+  {
+    "city": "Town of Schodack",
+    "state": "NY",
+    "url": "https://ecode360.com/SC1190",
+    "code": "SC1190"
+  },
+  {
+    "city": "Town of Schroeppel",
+    "state": "NY",
+    "url": "https://ecode360.com/SC0491",
+    "code": "SC0491"
+  },
+  {
+    "city": "Town of Seneca Falls",
+    "state": "NY",
+    "url": "https://ecode360.com/SE1298",
+    "code": "SE1298"
+  },
+  {
+    "city": "Town of Shandaken",
+    "state": "NY",
+    "url": "https://ecode360.com/SH1022",
+    "code": "SH1022"
+  },
+  {
+    "city": "Town of Shelter Island",
+    "state": "NY",
+    "url": "https://ecode360.com/SH0746",
+    "code": "SH0746"
+  },
+  {
+    "city": "Town of Smithtown",
+    "state": "NY",
+    "url": "https://ecode360.com/SM0115",
+    "code": "SM0115"
+  },
+  {
+    "city": "Town of Sodus",
+    "state": "NY",
+    "url": "https://ecode360.com/SO0501",
+    "code": "SO0501"
+  },
+  {
+    "city": "Town of Somers",
+    "state": "NY",
+    "url": "https://ecode360.com/SO0406",
+    "code": "SO0406"
+  },
+  {
+    "city": "Town of Somerset",
+    "state": "NY",
+    "url": "https://ecode360.com/SO1409",
+    "code": "SO1409"
+  },
+  {
+    "city": "Town of South Bristol",
+    "state": "NY",
+    "url": "https://ecode360.com/SO1384",
+    "code": "SO1384"
+  },
+  {
+    "city": "Town of Southampton",
+    "state": "NY",
+    "url": "https://ecode360.com/SO0286",
+    "code": "SO0286"
+  },
+  {
+    "city": "Town of Southeast",
+    "state": "NY",
+    "url": "https://ecode360.com/SO1053",
+    "code": "SO1053"
+  },
+  {
+    "city": "Town of Southold",
+    "state": "NY",
+    "url": "https://ecode360.com/SO0452",
+    "code": "SO0452"
+  },
+  {
+    "city": "Town of Southport",
+    "state": "NY",
+    "url": "https://ecode360.com/SO2246",
+    "code": "SO2246"
+  },
+  {
+    "city": "Town of Spafford",
+    "state": "NY",
+    "url": "https://ecode360.com/SP6729",
+    "code": "SP6729"
+  },
+  {
+    "city": "Town of Spencer",
+    "state": "NY",
+    "url": "https://ecode360.com/SP1416",
+    "code": "SP1416"
+  },
+  {
+    "city": "Town of Stafford",
+    "state": "NY",
+    "url": "https://ecode360.com/ST2888",
+    "code": "ST2888"
+  },
+  {
+    "city": "Town of Stanford",
+    "state": "NY",
+    "url": "https://ecode360.com/ST0938",
+    "code": "ST0938"
+  },
+  {
+    "city": "Town of Steuben",
+    "state": "NY",
+    "url": "https://ecode360.com/ST1913",
+    "code": "ST1913"
+  },
+  {
+    "city": "Town of Stillwater",
+    "state": "NY",
+    "url": "https://ecode360.com/ST2761",
+    "code": "ST2761"
+  },
+  {
+    "city": "Town of Stockport",
+    "state": "NY",
+    "url": "https://ecode360.com/ST1577",
+    "code": "ST1577"
+  },
+  {
+    "city": "Town of Stony Point",
+    "state": "NY",
+    "url": "https://ecode360.com/ST0120",
+    "code": "ST0120"
+  },
+  {
+    "city": "Town of Sullivan",
+    "state": "NY",
+    "url": "https://ecode360.com/SU2838",
+    "code": "SU2838"
+  },
+  {
+    "city": "Town of Sweden",
+    "state": "NY",
+    "url": "https://ecode360.com/SW0122",
+    "code": "SW0122"
+  },
+  {
+    "city": "Town of Taghkanic",
+    "state": "NY",
+    "url": "https://ecode360.com/TA2981",
+    "code": "TA2981"
+  },
+  {
+    "city": "Town of Thompson",
+    "state": "NY",
+    "url": "https://ecode360.com/TH0750",
+    "code": "TH0750"
+  },
+  {
+    "city": "Town of Tonawanda",
+    "state": "NY",
+    "url": "https://ecode360.com/TO0123",
+    "code": "TO0123"
+  },
+  {
+    "city": "Town of Trenton",
+    "state": "NY",
+    "url": "https://ecode360.com/TR1112",
+    "code": "TR1112"
+  },
+  {
+    "city": "Town of Tully",
+    "state": "NY",
+    "url": "https://ecode360.com/TU2238",
+    "code": "TU2238"
+  },
+  {
+    "city": "Town of Tusten",
+    "state": "NY",
+    "url": "https://ecode360.com/TU3790",
+    "code": "TU3790"
+  },
+  {
+    "city": "Town of Tuxedo",
+    "state": "NY",
+    "url": "https://ecode360.com/TU0460",
+    "code": "TU0460"
+  },
+  {
+    "city": "Town of Ulysses",
+    "state": "NY",
+    "url": "https://ecode360.com/UL3512",
+    "code": "UL3512"
+  },
+  {
+    "city": "Town of Union Vale",
+    "state": "NY",
+    "url": "https://ecode360.com/UN0671",
+    "code": "UN0671"
+  },
+  {
+    "city": "Town of Union",
+    "state": "NY",
+    "url": "https://ecode360.com/UN0126",
+    "code": "UN0126"
+  },
+  {
+    "city": "Town of Urbana",
+    "state": "NY",
+    "url": "https://ecode360.com/UR1262",
+    "code": "UR1262"
+  },
+  {
+    "city": "Town of Van Buren",
+    "state": "NY",
+    "url": "https://ecode360.com/VA1619",
+    "code": "VA1619"
+  },
+  {
+    "city": "Town of Vernon",
+    "state": "NY",
+    "url": "https://ecode360.com/VE1144",
+    "code": "VE1144"
+  },
+  {
+    "city": "Town of Verona",
+    "state": "NY",
+    "url": "https://ecode360.com/VE1663",
+    "code": "VE1663"
+  },
+  {
+    "city": "Town of Victor",
+    "state": "NY",
+    "url": "https://ecode360.com/VI0236",
+    "code": "VI0236"
+  },
+  {
+    "city": "Town of Wales",
+    "state": "NY",
+    "url": "https://ecode360.com/WA1347",
+    "code": "WA1347"
+  },
+  {
+    "city": "Town of Wallkill",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0513",
+    "code": "WA0513"
+  },
+  {
+    "city": "Town of Walton",
+    "state": "NY",
+    "url": "https://ecode360.com/WA3836",
+    "code": "WA3836"
+  },
+  {
+    "city": "Town of Walworth",
+    "state": "NY",
+    "url": "https://ecode360.com/WA1363",
+    "code": "WA1363"
+  },
+  {
+    "city": "Town of Wappinger",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0691",
+    "code": "WA0691"
+  },
+  {
+    "city": "Town of Warrensburg",
+    "state": "NY",
+    "url": "https://ecode360.com/WA1545",
+    "code": "WA1545"
+  },
+  {
+    "city": "Town of Warwick",
+    "state": "NY",
+    "url": "https://ecode360.com/WA1027",
+    "code": "WA1027"
+  },
+  {
+    "city": "Town of Washington",
+    "state": "NY",
+    "url": "https://ecode360.com/WA4180",
+    "code": "WA4180"
+  },
+  {
+    "city": "Town of Waterford",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0791",
+    "code": "WA0791"
+  },
+  {
+    "city": "Town of Wawarsing",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0802",
+    "code": "WA0802"
+  },
+  {
+    "city": "Town of Wawayanda",
+    "state": "NY",
+    "url": "https://ecode360.com/WA1265",
+    "code": "WA1265"
+  },
+  {
+    "city": "Town of Webb",
+    "state": "NY",
+    "url": "https://ecode360.com/WE2196",
+    "code": "WE2196"
+  },
+  {
+    "city": "Town of Webster",
+    "state": "NY",
+    "url": "https://ecode360.com/WE0220",
+    "code": "WE0220"
+  },
+  {
+    "city": "Town of West Bloomfield",
+    "state": "NY",
+    "url": "https://ecode360.com/WE1705",
+    "code": "WE1705"
+  },
+  {
+    "city": "Town of West Seneca",
+    "state": "NY",
+    "url": "https://ecode360.com/WE0417",
+    "code": "WE0417"
+  },
+  {
+    "city": "Town of Westfield",
+    "state": "NY",
+    "url": "https://ecode360.com/WE1631",
+    "code": "WE1631"
+  },
+  {
+    "city": "Town of Wheatfield",
+    "state": "NY",
+    "url": "https://ecode360.com/WH1495",
+    "code": "WH1495"
+  },
+  {
+    "city": "Town of Wheatland",
+    "state": "NY",
+    "url": "https://ecode360.com/WH0137",
+    "code": "WH0137"
+  },
+  {
+    "city": "Town of Williamson",
+    "state": "NY",
+    "url": "https://ecode360.com/WI0139",
+    "code": "WI0139"
+  },
+  {
+    "city": "Town of Wilna",
+    "state": "NY",
+    "url": "https://ecode360.com/WI3852",
+    "code": "WI3852"
+  },
+  {
+    "city": "Town of Wilson",
+    "state": "NY",
+    "url": "https://ecode360.com/WI0515",
+    "code": "WI0515"
+  },
+  {
+    "city": "Town of Wilton",
+    "state": "NY",
+    "url": "https://ecode360.com/WI1322",
+    "code": "WI1322"
+  },
+  {
+    "city": "Town of Woodbury",
+    "state": "NY",
+    "url": "https://ecode360.com/WO0595",
+    "code": "WO0595"
+  },
+  {
+    "city": "Town of Woodstock",
+    "state": "NY",
+    "url": "https://ecode360.com/WO2784",
+    "code": "WO2784"
+  },
+  {
+    "city": "Town of Yates",
+    "state": "NY",
+    "url": "https://ecode360.com/YA6634",
+    "code": "YA6634"
+  },
+  {
+    "city": "Town of Yorktown",
+    "state": "NY",
+    "url": "https://ecode360.com/YO1560",
+    "code": "YO1560"
+  },
+  {
+    "city": "Town/Village of East Rochester",
+    "state": "NY",
+    "url": "https://ecode360.com/EA0809",
+    "code": "EA0809"
+  },
+  {
+    "city": "Town/Village of Harrison",
+    "state": "NY",
+    "url": "https://ecode360.com/HA0224",
+    "code": "HA0224"
+  },
+  {
+    "city": "Town/Village of Mount Kisco",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0865",
+    "code": "MO0865"
+  },
+  {
+    "city": "Ulster County",
+    "state": "NY",
+    "url": "https://ecode360.com/UL2774",
+    "code": "UL2774"
+  },
+  {
+    "city": "Village of Adams",
+    "state": "NY",
+    "url": "https://ecode360.com/AD4005",
+    "code": "AD4005"
+  },
+  {
+    "city": "Village of Airmont",
+    "state": "NY",
+    "url": "https://ecode360.com/AI1857",
+    "code": "AI1857"
+  },
+  {
+    "city": "Village of Akron",
+    "state": "NY",
+    "url": "https://ecode360.com/AK1601",
+    "code": "AK1601"
+  },
+  {
+    "city": "Village of Albion",
+    "state": "NY",
+    "url": "https://ecode360.com/AL0001",
+    "code": "AL0001"
+  },
+  {
+    "city": "Village of Alexandria Bay",
+    "state": "NY",
+    "url": "https://ecode360.com/AL1193",
+    "code": "AL1193"
+  },
+  {
+    "city": "Village of Altamont",
+    "state": "NY",
+    "url": "https://ecode360.com/AL2859",
+    "code": "AL2859"
+  },
+  {
+    "city": "Village of Amityville",
+    "state": "NY",
+    "url": "https://ecode360.com/AM0762",
+    "code": "AM0762"
+  },
+  {
+    "city": "Village of Angola",
+    "state": "NY",
+    "url": "https://ecode360.com/AN2625",
+    "code": "AN2625"
+  },
+  {
+    "city": "Village of Ardsley",
+    "state": "NY",
+    "url": "https://ecode360.com/AR0005",
+    "code": "AR0005"
+  },
+  {
+    "city": "Village of Asharoken",
+    "state": "NY",
+    "url": "https://ecode360.com/AS1230",
+    "code": "AS1230"
+  },
+  {
+    "city": "Village of Athens",
+    "state": "NY",
+    "url": "https://ecode360.com/AT0523",
+    "code": "AT0523"
+  },
+  {
+    "city": "Village of Atlantic Beach",
+    "state": "NY",
+    "url": "https://ecode360.com/AT1401",
+    "code": "AT1401"
+  },
+  {
+    "city": "Village of Avon",
+    "state": "NY",
+    "url": "https://ecode360.com/AV0006",
+    "code": "AV0006"
+  },
+  {
+    "city": "Village of Babylon",
+    "state": "NY",
+    "url": "https://ecode360.com/BA0592",
+    "code": "BA0592"
+  },
+  {
+    "city": "Village of Bainbridge",
+    "state": "NY",
+    "url": "https://ecode360.com/BA1457",
+    "code": "BA1457"
+  },
+  {
+    "city": "Village of Baldwinsville",
+    "state": "NY",
+    "url": "https://ecode360.com/BA0380",
+    "code": "BA0380"
+  },
+  {
+    "city": "Village of Ballston Spa",
+    "state": "NY",
+    "url": "https://ecode360.com/BA0385",
+    "code": "BA0385"
+  },
+  {
+    "city": "Village of Bath",
+    "state": "NY",
+    "url": "https://ecode360.com/BA0734",
+    "code": "BA0734"
+  },
+  {
+    "city": "Village of Baxter Estates",
+    "state": "NY",
+    "url": "https://ecode360.com/BA1157",
+    "code": "BA1157"
+  },
+  {
+    "city": "Village of Bayville",
+    "state": "NY",
+    "url": "https://ecode360.com/BA0509",
+    "code": "BA0509"
+  },
+  {
+    "city": "Village of Belle Terre",
+    "state": "NY",
+    "url": "https://ecode360.com/BE1338",
+    "code": "BE1338"
+  },
+  {
+    "city": "Village of Bellerose",
+    "state": "NY",
+    "url": "https://ecode360.com/BE0584",
+    "code": "BE0584"
+  },
+  {
+    "city": "Village of Bellport",
+    "state": "NY",
+    "url": "https://ecode360.com/BE0526",
+    "code": "BE0526"
+  },
+  {
+    "city": "Village of Blasdell",
+    "state": "NY",
+    "url": "https://ecode360.com/BL0009",
+    "code": "BL0009"
+  },
+  {
+    "city": "Village of Bloomfield",
+    "state": "NY",
+    "url": "https://ecode360.com/BL4201",
+    "code": "BL4201"
+  },
+  {
+    "city": "Village of Boonville",
+    "state": "NY",
+    "url": "https://ecode360.com/BO0378",
+    "code": "BO0378"
+  },
+  {
+    "city": "Village of Brewster",
+    "state": "NY",
+    "url": "https://ecode360.com/BR1329",
+    "code": "BR1329"
+  },
+  {
+    "city": "Village of Briarcliff Manor",
+    "state": "NY",
+    "url": "https://ecode360.com/BR1701",
+    "code": "BR1701"
+  },
+  {
+    "city": "Village of Brightwaters",
+    "state": "NY",
+    "url": "https://ecode360.com/BR0326",
+    "code": "BR0326"
+  },
+  {
+    "city": "Village of Brockport",
+    "state": "NY",
+    "url": "https://ecode360.com/BR0227",
+    "code": "BR0227"
+  },
+  {
+    "city": "Village of Bronxville",
+    "state": "NY",
+    "url": "https://ecode360.com/BR1468",
+    "code": "BR1468"
+  },
+  {
+    "city": "Village of Brownville",
+    "state": "NY",
+    "url": "https://ecode360.com/BR0916",
+    "code": "BR0916"
+  },
+  {
+    "city": "Village of Buchanan",
+    "state": "NY",
+    "url": "https://ecode360.com/BU0230",
+    "code": "BU0230"
+  },
+  {
+    "city": "Village of Caledonia",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0015",
+    "code": "CA0015"
+  },
+  {
+    "city": "Village of Camillus",
+    "state": "NY",
+    "url": "https://ecode360.com/CA1012",
+    "code": "CA1012"
+  },
+  {
+    "city": "Village of Canajoharie",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0018",
+    "code": "CA0018"
+  },
+  {
+    "city": "Village of Canastota",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0356",
+    "code": "CA0356"
+  },
+  {
+    "city": "Village of Canisteo",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0946",
+    "code": "CA0946"
+  },
+  {
+    "city": "Village of Canton",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0020",
+    "code": "CA0020"
+  },
+  {
+    "city": "Village of Carthage",
+    "state": "NY",
+    "url": "https://ecode360.com/CA0146",
+    "code": "CA0146"
+  },
+  {
+    "city": "Village of Castleton-on-Hudson",
+    "state": "NY",
+    "url": "https://ecode360.com/CA1654",
+    "code": "CA1654"
+  },
+  {
+    "city": "Village of Cayuga Heights",
+    "state": "NY",
+    "url": "https://ecode360.com/CA3773",
+    "code": "CA3773"
+  },
+  {
+    "city": "Village of Cazenovia",
+    "state": "NY",
+    "url": "https://ecode360.com/CA1699",
+    "code": "CA1699"
+  },
+  {
+    "city": "Village of Cedarhurst",
+    "state": "NY",
+    "url": "https://ecode360.com/CE1549",
+    "code": "CE1549"
+  },
+  {
+    "city": "Village of Celoron",
+    "state": "NY",
+    "url": "https://ecode360.com/CE0023",
+    "code": "CE0023"
+  },
+  {
+    "city": "Village of Central Square",
+    "state": "NY",
+    "url": "https://ecode360.com/CE1952",
+    "code": "CE1952"
+  },
+  {
+    "city": "Village of Centre Island",
+    "state": "NY",
+    "url": "https://ecode360.com/CE1185",
+    "code": "CE1185"
+  },
+  {
+    "city": "Village of Chatham",
+    "state": "NY",
+    "url": "https://ecode360.com/CH1066",
+    "code": "CH1066"
+  },
+  {
+    "city": "Village of Chester",
+    "state": "NY",
+    "url": "https://ecode360.com/CH0667",
+    "code": "CH0667"
+  },
+  {
+    "city": "Village of Chestnut Ridge",
+    "state": "NY",
+    "url": "https://ecode360.com/CH3561",
+    "code": "CH3561"
+  },
+  {
+    "city": "Village of Chittenango",
+    "state": "NY",
+    "url": "https://ecode360.com/CH0025",
+    "code": "CH0025"
+  },
+  {
+    "city": "Village of Churchville",
+    "state": "NY",
+    "url": "https://ecode360.com/CH0874",
+    "code": "CH0874"
+  },
+  {
+    "city": "Village of Clayton",
+    "state": "NY",
+    "url": "https://ecode360.com/CL0983",
+    "code": "CL0983"
+  },
+  {
+    "city": "Village of Clifton Springs",
+    "state": "NY",
+    "url": "https://ecode360.com/CL0029",
+    "code": "CL0029"
+  },
+  {
+    "city": "Village of Clinton",
+    "state": "NY",
+    "url": "https://ecode360.com/CL0030",
+    "code": "CL0030"
+  },
+  {
+    "city": "Village of Clyde",
+    "state": "NY",
+    "url": "https://ecode360.com/CL2787",
+    "code": "CL2787"
+  },
+  {
+    "city": "Village of Cobleskill",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0031",
+    "code": "CO0031"
+  },
+  {
+    "city": "Village of Colonie",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0033",
+    "code": "CO0033"
+  },
+  {
+    "city": "Village of Cooperstown",
+    "state": "NY",
+    "url": "https://ecode360.com/CO2139",
+    "code": "CO2139"
+  },
+  {
+    "city": "Village of Corinth",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0733",
+    "code": "CO0733"
+  },
+  {
+    "city": "Village of Cornwall-On-Hudson",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0152",
+    "code": "CO0152"
+  },
+  {
+    "city": "Village of Cove Neck",
+    "state": "NY",
+    "url": "https://ecode360.com/CO1946",
+    "code": "CO1946"
+  },
+  {
+    "city": "Village of Coxsackie",
+    "state": "NY",
+    "url": "https://ecode360.com/CO0740",
+    "code": "CO0740"
+  },
+  {
+    "city": "Village of Croton-on-Hudson",
+    "state": "NY",
+    "url": "https://ecode360.com/CR0035",
+    "code": "CR0035"
+  },
+  {
+    "city": "Village of Cuba",
+    "state": "NY",
+    "url": "https://ecode360.com/CU0649",
+    "code": "CU0649"
+  },
+  {
+    "city": "Village of Dannemora",
+    "state": "NY",
+    "url": "https://ecode360.com/DA1007",
+    "code": "DA1007"
+  },
+  {
+    "city": "Village of Dansville",
+    "state": "NY",
+    "url": "https://ecode360.com/DA0036",
+    "code": "DA0036"
+  },
+  {
+    "city": "Village of Delhi",
+    "state": "NY",
+    "url": "https://ecode360.com/DE0305",
+    "code": "DE0305"
+  },
+  {
+    "city": "Village of Depew",
+    "state": "NY",
+    "url": "https://ecode360.com/DE1925",
+    "code": "DE1925"
+  },
+  {
+    "city": "Village of Deposit",
+    "state": "NY",
+    "url": "https://ecode360.com/DE0037",
+    "code": "DE0037"
+  },
+  {
+    "city": "Village of Dering Harbor",
+    "state": "NY",
+    "url": "https://ecode360.com/DE3974",
+    "code": "DE3974"
+  },
+  {
+    "city": "Village of Dobbs Ferry",
+    "state": "NY",
+    "url": "https://ecode360.com/DO0599",
+    "code": "DO0599"
+  },
+  {
+    "city": "Village of Dryden",
+    "state": "NY",
+    "url": "https://ecode360.com/DR6598",
+    "code": "DR6598"
+  },
+  {
+    "city": "Village of Dundee",
+    "state": "NY",
+    "url": "https://ecode360.com/DU1149",
+    "code": "DU1149"
+  },
+  {
+    "city": "Village of East Aurora",
+    "state": "NY",
+    "url": "https://ecode360.com/EA0398",
+    "code": "EA0398"
+  },
+  {
+    "city": "Village of East Hampton",
+    "state": "NY",
+    "url": "https://ecode360.com/EA0361",
+    "code": "EA0361"
+  },
+  {
+    "city": "Village of East Hills",
+    "state": "NY",
+    "url": "https://ecode360.com/EA0847",
+    "code": "EA0847"
+  },
+  {
+    "city": "Village of East Rockaway",
+    "state": "NY",
+    "url": "https://ecode360.com/EA0899",
+    "code": "EA0899"
+  },
+  {
+    "city": "Village of East Syracuse",
+    "state": "NY",
+    "url": "https://ecode360.com/EA1636",
+    "code": "EA1636"
+  },
+  {
+    "city": "Village of East Williston",
+    "state": "NY",
+    "url": "https://ecode360.com/EA1896",
+    "code": "EA1896"
+  },
+  {
+    "city": "Village of Ellenville",
+    "state": "NY",
+    "url": "https://ecode360.com/EL0977",
+    "code": "EL0977"
+  },
+  {
+    "city": "Village of Elmira Heights",
+    "state": "NY",
+    "url": "https://ecode360.com/EL1528",
+    "code": "EL1528"
+  },
+  {
+    "city": "Village of Elmsford",
+    "state": "NY",
+    "url": "https://ecode360.com/EL0274",
+    "code": "EL0274"
+  },
+  {
+    "city": "Village of Endicott",
+    "state": "NY",
+    "url": "https://ecode360.com/EN1075",
+    "code": "EN1075"
+  },
+  {
+    "city": "Village of Fair Haven",
+    "state": "NY",
+    "url": "https://ecode360.com/FA0347",
+    "code": "FA0347"
+  },
+  {
+    "city": "Village of Fairport",
+    "state": "NY",
+    "url": "https://ecode360.com/FA0327",
+    "code": "FA0327"
+  },
+  {
+    "city": "Village of Farmingdale",
+    "state": "NY",
+    "url": "https://ecode360.com/FA0311",
+    "code": "FA0311"
+  },
+  {
+    "city": "Village of Fayetteville",
+    "state": "NY",
+    "url": "https://ecode360.com/FA0988",
+    "code": "FA0988"
+  },
+  {
+    "city": "Village of Fishkill",
+    "state": "NY",
+    "url": "https://ecode360.com/FI0778",
+    "code": "FI0778"
+  },
+  {
+    "city": "Village of Floral Park",
+    "state": "NY",
+    "url": "https://ecode360.com/FL0046",
+    "code": "FL0046"
+  },
+  {
+    "city": "Village of Florida",
+    "state": "NY",
+    "url": "https://ecode360.com/FL0922",
+    "code": "FL0922"
+  },
+  {
+    "city": "Village of Flower Hill",
+    "state": "NY",
+    "url": "https://ecode360.com/FL0568",
+    "code": "FL0568"
+  },
+  {
+    "city": "Village of Fonda",
+    "state": "NY",
+    "url": "https://ecode360.com/FO3609",
+    "code": "FO3609"
+  },
+  {
+    "city": "Village of Fort Edward",
+    "state": "NY",
+    "url": "https://ecode360.com/FO0976",
+    "code": "FO0976"
+  },
+  {
+    "city": "Village of Fort Plain",
+    "state": "NY",
+    "url": "https://ecode360.com/FO1511",
+    "code": "FO1511"
+  },
+  {
+    "city": "Village of Freeport",
+    "state": "NY",
+    "url": "https://ecode360.com/FR0651",
+    "code": "FR0651"
+  },
+  {
+    "city": "Village of Fultonville",
+    "state": "NY",
+    "url": "https://ecode360.com/FU1650",
+    "code": "FU1650"
+  },
+  {
+    "city": "Village of Garden City",
+    "state": "NY",
+    "url": "https://ecode360.com/GA0634",
+    "code": "GA0634"
+  },
+  {
+    "city": "Village of Geneseo",
+    "state": "NY",
+    "url": "https://ecode360.com/GE0051",
+    "code": "GE0051"
+  },
+  {
+    "city": "Village of Great Neck Estates",
+    "state": "NY",
+    "url": "https://ecode360.com/GR0716",
+    "code": "GR0716"
+  },
+  {
+    "city": "Village of Great Neck Plaza",
+    "state": "NY",
+    "url": "https://ecode360.com/GR1040",
+    "code": "GR1040"
+  },
+  {
+    "city": "Village of Great Neck",
+    "state": "NY",
+    "url": "https://ecode360.com/GR0590",
+    "code": "GR0590"
+  },
+  {
+    "city": "Village of Green Island",
+    "state": "NY",
+    "url": "https://ecode360.com/GR1167",
+    "code": "GR1167"
+  },
+  {
+    "city": "Village of Greene",
+    "state": "NY",
+    "url": "https://ecode360.com/GR1302",
+    "code": "GR1302"
+  },
+  {
+    "city": "Village of Greenport",
+    "state": "NY",
+    "url": "https://ecode360.com/GR0542",
+    "code": "GR0542"
+  },
+  {
+    "city": "Village of Greenwood Lake",
+    "state": "NY",
+    "url": "https://ecode360.com/GR0881",
+    "code": "GR0881"
+  },
+  {
+    "city": "Village of Groton",
+    "state": "NY",
+    "url": "https://ecode360.com/GR1261",
+    "code": "GR1261"
+  },
+  {
+    "city": "Village of Hamburg",
+    "state": "NY",
+    "url": "https://ecode360.com/HA1542",
+    "code": "HA1542"
+  },
+  {
+    "city": "Village of Hamilton",
+    "state": "NY",
+    "url": "https://ecode360.com/HA1177",
+    "code": "HA1177"
+  },
+  {
+    "city": "Village of Hammondsport",
+    "state": "NY",
+    "url": "https://ecode360.com/HA0982",
+    "code": "HA0982"
+  },
+  {
+    "city": "Village of Hancock",
+    "state": "NY",
+    "url": "https://ecode360.com/HA0277",
+    "code": "HA0277"
+  },
+  {
+    "city": "Village of Harriman",
+    "state": "NY",
+    "url": "https://ecode360.com/HA1129",
+    "code": "HA1129"
+  },
+  {
+    "city": "Village of Hastings-on-Hudson",
+    "state": "NY",
+    "url": "https://ecode360.com/HA0290",
+    "code": "HA0290"
+  },
+  {
+    "city": "Village of Haverstraw",
+    "state": "NY",
+    "url": "https://ecode360.com/HA0171",
+    "code": "HA0171"
+  },
+  {
+    "city": "Village of Head-of-the-Harbor",
+    "state": "NY",
+    "url": "https://ecode360.com/HE1202",
+    "code": "HE1202"
+  },
+  {
+    "city": "Village of Hempstead",
+    "state": "NY",
+    "url": "https://ecode360.com/HE0909",
+    "code": "HE0909"
+  },
+  {
+    "city": "Village of Hewlett Bay Park",
+    "state": "NY",
+    "url": "https://ecode360.com/HE1222",
+    "code": "HE1222"
+  },
+  {
+    "city": "Village of Hewlett Harbor",
+    "state": "NY",
+    "url": "https://ecode360.com/HE0942",
+    "code": "HE0942"
+  },
+  {
+    "city": "Village of Hewlett Neck",
+    "state": "NY",
+    "url": "https://ecode360.com/HE1652",
+    "code": "HE1652"
+  },
+  {
+    "city": "Village of Highland Falls",
+    "state": "NY",
+    "url": "https://ecode360.com/HI0369",
+    "code": "HI0369"
+  },
+  {
+    "city": "Village of Hillburn",
+    "state": "NY",
+    "url": "https://ecode360.com/HI0336",
+    "code": "HI0336"
+  },
+  {
+    "city": "Village of Hilton",
+    "state": "NY",
+    "url": "https://ecode360.com/HI0057",
+    "code": "HI0057"
+  },
+  {
+    "city": "Village of Holley",
+    "state": "NY",
+    "url": "https://ecode360.com/HO1513",
+    "code": "HO1513"
+  },
+  {
+    "city": "Village of Homer",
+    "state": "NY",
+    "url": "https://ecode360.com/HO1264",
+    "code": "HO1264"
+  },
+  {
+    "city": "Village of Honeoye Falls",
+    "state": "NY",
+    "url": "https://ecode360.com/HO0058",
+    "code": "HO0058"
+  },
+  {
+    "city": "Village of Hoosick Falls",
+    "state": "NY",
+    "url": "https://ecode360.com/HO3619",
+    "code": "HO3619"
+  },
+  {
+    "city": "Village of Horseheads",
+    "state": "NY",
+    "url": "https://ecode360.com/HO0600",
+    "code": "HO0600"
+  },
+  {
+    "city": "Village of Hudson Falls",
+    "state": "NY",
+    "url": "https://ecode360.com/HU0194",
+    "code": "HU0194"
+  },
+  {
+    "city": "Village of Huntington Bay",
+    "state": "NY",
+    "url": "https://ecode360.com/HU0601",
+    "code": "HU0601"
+  },
+  {
+    "city": "Village of Ilion",
+    "state": "NY",
+    "url": "https://ecode360.com/IL1246",
+    "code": "IL1246"
+  },
+  {
+    "city": "Village of Interlaken",
+    "state": "NY",
+    "url": "https://ecode360.com/IN1614",
+    "code": "IN1614"
+  },
+  {
+    "city": "Village of Irvington",
+    "state": "NY",
+    "url": "https://ecode360.com/IR0187",
+    "code": "IR0187"
+  },
+  {
+    "city": "Village of Island Park",
+    "state": "NY",
+    "url": "https://ecode360.com/IS1102",
+    "code": "IS1102"
+  },
+  {
+    "city": "Village of Islandia",
+    "state": "NY",
+    "url": "https://ecode360.com/IS1122",
+    "code": "IS1122"
+  },
+  {
+    "city": "Village of Johnson City",
+    "state": "NY",
+    "url": "https://ecode360.com/JO1382",
+    "code": "JO1382"
+  },
+  {
+    "city": "Village of Kensington",
+    "state": "NY",
+    "url": "https://ecode360.com/KE1161",
+    "code": "KE1161"
+  },
+  {
+    "city": "Village of Kinderhook",
+    "state": "NY",
+    "url": "https://ecode360.com/KI0572",
+    "code": "KI0572"
+  },
+  {
+    "city": "Village of Kings Point",
+    "state": "NY",
+    "url": "https://ecode360.com/KI0771",
+    "code": "KI0771"
+  },
+  {
+    "city": "Village of Kiryas Joel",
+    "state": "NY",
+    "url": "https://ecode360.com/KI1464",
+    "code": "KI1464"
+  },
+  {
+    "city": "Village of Lake George",
+    "state": "NY",
+    "url": "https://ecode360.com/LA0343",
+    "code": "LA0343"
+  },
+  {
+    "city": "Village of Lake Grove",
+    "state": "NY",
+    "url": "https://ecode360.com/LA0625",
+    "code": "LA0625"
+  },
+  {
+    "city": "Village of Lake Placid",
+    "state": "NY",
+    "url": "https://ecode360.com/LA2988",
+    "code": "LA2988"
+  },
+  {
+    "city": "Village of Lake Success",
+    "state": "NY",
+    "url": "https://ecode360.com/LA0844",
+    "code": "LA0844"
+  },
+  {
+    "city": "Village of Lancaster",
+    "state": "NY",
+    "url": "https://ecode360.com/LA0609",
+    "code": "LA0609"
+  },
+  {
+    "city": "Village of Larchmont",
+    "state": "NY",
+    "url": "https://ecode360.com/LA0851",
+    "code": "LA0851"
+  },
+  {
+    "city": "Village of Lattingtown",
+    "state": "NY",
+    "url": "https://ecode360.com/LA2687",
+    "code": "LA2687"
+  },
+  {
+    "city": "Village of Laurel Hollow",
+    "state": "NY",
+    "url": "https://ecode360.com/LA0693",
+    "code": "LA0693"
+  },
+  {
+    "city": "Village of Lawrence",
+    "state": "NY",
+    "url": "https://ecode360.com/LA1034",
+    "code": "LA1034"
+  },
+  {
+    "city": "Village of LeRoy",
+    "state": "NY",
+    "url": "https://ecode360.com/LE1712",
+    "code": "LE1712"
+  },
+  {
+    "city": "Village of Liberty",
+    "state": "NY",
+    "url": "https://ecode360.com/LI0200",
+    "code": "LI0200"
+  },
+  {
+    "city": "Village of Lima",
+    "state": "NY",
+    "url": "https://ecode360.com/LI0154",
+    "code": "LI0154"
+  },
+  {
+    "city": "Village of Lindenhurst",
+    "state": "NY",
+    "url": "https://ecode360.com/LI0062",
+    "code": "LI0062"
+  },
+  {
+    "city": "Village of Little Valley",
+    "state": "NY",
+    "url": "https://ecode360.com/LI4138",
+    "code": "LI4138"
+  },
+  {
+    "city": "Village of Liverpool",
+    "state": "NY",
+    "url": "https://ecode360.com/LI1108",
+    "code": "LI1108"
+  },
+  {
+    "city": "Village of Livonia",
+    "state": "NY",
+    "url": "https://ecode360.com/LI1607",
+    "code": "LI1607"
+  },
+  {
+    "city": "Village of Lloyd Harbor",
+    "state": "NY",
+    "url": "https://ecode360.com/LL1341",
+    "code": "LL1341"
+  },
+  {
+    "city": "Village of Lowville",
+    "state": "NY",
+    "url": "https://ecode360.com/LO1526",
+    "code": "LO1526"
+  },
+  {
+    "city": "Village of Lynbrook",
+    "state": "NY",
+    "url": "https://ecode360.com/LY0558",
+    "code": "LY0558"
+  },
+  {
+    "city": "Village of Malone",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0063",
+    "code": "MA0063"
+  },
+  {
+    "city": "Village of Malverne",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0211",
+    "code": "MA0211"
+  },
+  {
+    "city": "Village of Mamaroneck",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0954",
+    "code": "MA0954"
+  },
+  {
+    "city": "Village of Manchester",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0793",
+    "code": "MA0793"
+  },
+  {
+    "city": "Village of Manlius",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0818",
+    "code": "MA0818"
+  },
+  {
+    "city": "Village of Manorhaven",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0580",
+    "code": "MA0580"
+  },
+  {
+    "city": "Village of Massapequa Park",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0905",
+    "code": "MA0905"
+  },
+  {
+    "city": "Village of Massena",
+    "state": "NY",
+    "url": "https://ecode360.com/MA0064",
+    "code": "MA0064"
+  },
+  {
+    "city": "Village of Matinecock",
+    "state": "NY",
+    "url": "https://ecode360.com/MA1760",
+    "code": "MA1760"
+  },
+  {
+    "city": "Village of Maybrook",
+    "state": "NY",
+    "url": "https://ecode360.com/MA1267",
+    "code": "MA1267"
+  },
+  {
+    "city": "Village of McGraw",
+    "state": "NY",
+    "url": "https://ecode360.com/MC1516",
+    "code": "MC1516"
+  },
+  {
+    "city": "Village of Medina",
+    "state": "NY",
+    "url": "https://ecode360.com/ME0066",
+    "code": "ME0066"
+  },
+  {
+    "city": "Village of Menands",
+    "state": "NY",
+    "url": "https://ecode360.com/ME1106",
+    "code": "ME1106"
+  },
+  {
+    "city": "Village of Middleport",
+    "state": "NY",
+    "url": "https://ecode360.com/MI1694",
+    "code": "MI1694"
+  },
+  {
+    "city": "Village of Mill Neck",
+    "state": "NY",
+    "url": "https://ecode360.com/MI0853",
+    "code": "MI0853"
+  },
+  {
+    "city": "Village of Millbrook",
+    "state": "NY",
+    "url": "https://ecode360.com/MI1586",
+    "code": "MI1586"
+  },
+  {
+    "city": "Village of Millerton",
+    "state": "NY",
+    "url": "https://ecode360.com/MI0663",
+    "code": "MI0663"
+  },
+  {
+    "city": "Village of Mineola",
+    "state": "NY",
+    "url": "https://ecode360.com/MI0069",
+    "code": "MI0069"
+  },
+  {
+    "city": "Village of Minoa",
+    "state": "NY",
+    "url": "https://ecode360.com/MI1181",
+    "code": "MI1181"
+  },
+  {
+    "city": "Village of Monroe",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0222",
+    "code": "MO0222"
+  },
+  {
+    "city": "Village of Montebello",
+    "state": "NY",
+    "url": "https://ecode360.com/MO1927",
+    "code": "MO1927"
+  },
+  {
+    "city": "Village of Montgomery",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0887",
+    "code": "MO0887"
+  },
+  {
+    "city": "Village of Monticello",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0528",
+    "code": "MO0528"
+  },
+  {
+    "city": "Village of Montour Falls",
+    "state": "NY",
+    "url": "https://ecode360.com/MO1461",
+    "code": "MO1461"
+  },
+  {
+    "city": "Village of Morrisville",
+    "state": "NY",
+    "url": "https://ecode360.com/MO1477",
+    "code": "MO1477"
+  },
+  {
+    "city": "Village of Mount Morris",
+    "state": "NY",
+    "url": "https://ecode360.com/MO0072",
+    "code": "MO0072"
+  },
+  {
+    "city": "Village of Munsey Park",
+    "state": "NY",
+    "url": "https://ecode360.com/MU1617",
+    "code": "MU1617"
+  },
+  {
+    "city": "Village of Muttontown",
+    "state": "NY",
+    "url": "https://ecode360.com/MU1779",
+    "code": "MU1779"
+  },
+  {
+    "city": "Village of Naples",
+    "state": "NY",
+    "url": "https://ecode360.com/NA2763",
+    "code": "NA2763"
+  },
+  {
+    "city": "Village of Nassau",
+    "state": "NY",
+    "url": "https://ecode360.com/NA1113",
+    "code": "NA1113"
+  },
+  {
+    "city": "Village of New Hartford",
+    "state": "NY",
+    "url": "https://ecode360.com/NE0320",
+    "code": "NE0320"
+  },
+  {
+    "city": "Village of New Hempstead",
+    "state": "NY",
+    "url": "https://ecode360.com/NE1212",
+    "code": "NE1212"
+  },
+  {
+    "city": "Village of New Hyde Park",
+    "state": "NY",
+    "url": "https://ecode360.com/NE1037",
+    "code": "NE1037"
+  },
+  {
+    "city": "Village of New Paltz",
+    "state": "NY",
+    "url": "https://ecode360.com/NE0076",
+    "code": "NE0076"
+  },
+  {
+    "city": "Village of New York Mills",
+    "state": "NY",
+    "url": "https://ecode360.com/NE1938",
+    "code": "NE1938"
+  },
+  {
+    "city": "Village of Newark Valley",
+    "state": "NY",
+    "url": "https://ecode360.com/NE1405",
+    "code": "NE1405"
+  },
+  {
+    "city": "Village of Newark",
+    "state": "NY",
+    "url": "https://ecode360.com/NE0073",
+    "code": "NE0073"
+  },
+  {
+    "city": "Village of Nissequogue",
+    "state": "NY",
+    "url": "https://ecode360.com/NI0891",
+    "code": "NI0891"
+  },
+  {
+    "city": "Village of North Collins",
+    "state": "NY",
+    "url": "https://ecode360.com/NO0080",
+    "code": "NO0080"
+  },
+  {
+    "city": "Village of North Haven",
+    "state": "NY",
+    "url": "https://ecode360.com/NO1009",
+    "code": "NO1009"
+  },
+  {
+    "city": "Village of North Hills",
+    "state": "NY",
+    "url": "https://ecode360.com/NO0839",
+    "code": "NO0839"
+  },
+  {
+    "city": "Village of North Hornell",
+    "state": "NY",
+    "url": "https://ecode360.com/NO0082",
+    "code": "NO0082"
+  },
+  {
+    "city": "Village of North Syracuse",
+    "state": "NY",
+    "url": "https://ecode360.com/NO1279",
+    "code": "NO1279"
+  },
+  {
+    "city": "Village of Northport",
+    "state": "NY",
+    "url": "https://ecode360.com/NO0083",
+    "code": "NO0083"
+  },
+  {
+    "city": "Village of Norwood",
+    "state": "NY",
+    "url": "https://ecode360.com/NO1576",
+    "code": "NO1576"
+  },
+  {
+    "city": "Village of Nyack",
+    "state": "NY",
+    "url": "https://ecode360.com/NY0087",
+    "code": "NY0087"
+  },
+  {
+    "city": "Village of Oakfield",
+    "state": "NY",
+    "url": "https://ecode360.com/OA3797",
+    "code": "OA3797"
+  },
+  {
+    "city": "Village of Ocean Beach",
+    "state": "NY",
+    "url": "https://ecode360.com/OC0808",
+    "code": "OC0808"
+  },
+  {
+    "city": "Village of Old Brookville",
+    "state": "NY",
+    "url": "https://ecode360.com/OL1722",
+    "code": "OL1722"
+  },
+  {
+    "city": "Village of Old Field",
+    "state": "NY",
+    "url": "https://ecode360.com/OL0629",
+    "code": "OL0629"
+  },
+  {
+    "city": "Village of Old Westbury",
+    "state": "NY",
+    "url": "https://ecode360.com/OL0821",
+    "code": "OL0821"
+  },
+  {
+    "city": "Village of Orchard Park",
+    "state": "NY",
+    "url": "https://ecode360.com/OR2827",
+    "code": "OR2827"
+  },
+  {
+    "city": "Village of Ossining",
+    "state": "NY",
+    "url": "https://ecode360.com/OS1500",
+    "code": "OS1500"
+  },
+  {
+    "city": "Village of Otego",
+    "state": "NY",
+    "url": "https://ecode360.com/OT2046",
+    "code": "OT2046"
+  },
+  {
+    "city": "Village of Owego",
+    "state": "NY",
+    "url": "https://ecode360.com/OW1583",
+    "code": "OW1583"
+  },
+  {
+    "city": "Village of Oxford",
+    "state": "NY",
+    "url": "https://ecode360.com/OX1411",
+    "code": "OX1411"
+  },
+  {
+    "city": "Village of Oyster Bay Cove",
+    "state": "NY",
+    "url": "https://ecode360.com/OY1780",
+    "code": "OY1780"
+  },
+  {
+    "city": "Village of Palmyra",
+    "state": "NY",
+    "url": "https://ecode360.com/PA0094",
+    "code": "PA0094"
+  },
+  {
+    "city": "Village of Patchogue",
+    "state": "NY",
+    "url": "https://ecode360.com/PA0323",
+    "code": "PA0323"
+  },
+  {
+    "city": "Village of Pelham Manor",
+    "state": "NY",
+    "url": "https://ecode360.com/PE1838",
+    "code": "PE1838"
+  },
+  {
+    "city": "Village of Pelham",
+    "state": "NY",
+    "url": "https://ecode360.com/PE0553",
+    "code": "PE0553"
+  },
+  {
+    "city": "Village of Penn Yan",
+    "state": "NY",
+    "url": "https://ecode360.com/PE0096",
+    "code": "PE0096"
+  },
+  {
+    "city": "Village of Perry",
+    "state": "NY",
+    "url": "https://ecode360.com/PE2218",
+    "code": "PE2218"
+  },
+  {
+    "city": "Village of Phelps",
+    "state": "NY",
+    "url": "https://ecode360.com/PH1306",
+    "code": "PH1306"
+  },
+  {
+    "city": "Village of Phoenix",
+    "state": "NY",
+    "url": "https://ecode360.com/PH0099",
+    "code": "PH0099"
+  },
+  {
+    "city": "Village of Piermont",
+    "state": "NY",
+    "url": "https://ecode360.com/PI0612",
+    "code": "PI0612"
+  },
+  {
+    "city": "Village of Pittsford",
+    "state": "NY",
+    "url": "https://ecode360.com/PI1146",
+    "code": "PI1146"
+  },
+  {
+    "city": "Village of Plandome Heights",
+    "state": "NY",
+    "url": "https://ecode360.com/PL1989",
+    "code": "PL1989"
+  },
+  {
+    "city": "Village of Plandome Manor",
+    "state": "NY",
+    "url": "https://ecode360.com/PL2903",
+    "code": "PL2903"
+  },
+  {
+    "city": "Village of Plandome",
+    "state": "NY",
+    "url": "https://ecode360.com/PL0883",
+    "code": "PL0883"
+  },
+  {
+    "city": "Village of Pleasantville",
+    "state": "NY",
+    "url": "https://ecode360.com/PL1550",
+    "code": "PL1550"
+  },
+  {
+    "city": "Village of Pomona",
+    "state": "NY",
+    "url": "https://ecode360.com/PO1095",
+    "code": "PO1095"
+  },
+  {
+    "city": "Village of Poquott",
+    "state": "NY",
+    "url": "https://ecode360.com/PO2249",
+    "code": "PO2249"
+  },
+  {
+    "city": "Village of Port Chester",
+    "state": "NY",
+    "url": "https://ecode360.com/PO0100",
+    "code": "PO0100"
+  },
+  {
+    "city": "Village of Port Jefferson",
+    "state": "NY",
+    "url": "https://ecode360.com/PO0346",
+    "code": "PO0346"
+  },
+  {
+    "city": "Village of Port Washington North",
+    "state": "NY",
+    "url": "https://ecode360.com/PO1921",
+    "code": "PO1921"
+  },
+  {
+    "city": "Village of Potsdam",
+    "state": "NY",
+    "url": "https://ecode360.com/PO0885",
+    "code": "PO0885"
+  },
+  {
+    "city": "Village of Pulaski",
+    "state": "NY",
+    "url": "https://ecode360.com/PU1979",
+    "code": "PU1979"
+  },
+  {
+    "city": "Village of Quogue",
+    "state": "NY",
+    "url": "https://ecode360.com/QU1026",
+    "code": "QU1026"
+  },
+  {
+    "city": "Village of Ravena",
+    "state": "NY",
+    "url": "https://ecode360.com/RA1187",
+    "code": "RA1187"
+  },
+  {
+    "city": "Village of Red Creek",
+    "state": "NY",
+    "url": "https://ecode360.com/RE3617",
+    "code": "RE3617"
+  },
+  {
+    "city": "Village of Red Hook",
+    "state": "NY",
+    "url": "https://ecode360.com/RE1449",
+    "code": "RE1449"
+  },
+  {
+    "city": "Village of Rhinebeck",
+    "state": "NY",
+    "url": "https://ecode360.com/RH1002",
+    "code": "RH1002"
+  },
+  {
+    "city": "Village of Rockville Centre",
+    "state": "NY",
+    "url": "https://ecode360.com/RO0303",
+    "code": "RO0303"
+  },
+  {
+    "city": "Village of Roslyn Estates",
+    "state": "NY",
+    "url": "https://ecode360.com/RO1775",
+    "code": "RO1775"
+  },
+  {
+    "city": "Village of Roslyn Harbor",
+    "state": "NY",
+    "url": "https://ecode360.com/RO0789",
+    "code": "RO0789"
+  },
+  {
+    "city": "Village of Roslyn",
+    "state": "NY",
+    "url": "https://ecode360.com/RO1402",
+    "code": "RO1402"
+  },
+  {
+    "city": "Village of Round Lake",
+    "state": "NY",
+    "url": "https://ecode360.com/RO1591",
+    "code": "RO1591"
+  },
+  {
+    "city": "Village of Rouses Point",
+    "state": "NY",
+    "url": "https://ecode360.com/RO0588",
+    "code": "RO0588"
+  },
+  {
+    "city": "Village of Russell Gardens",
+    "state": "NY",
+    "url": "https://ecode360.com/RU0545",
+    "code": "RU0545"
+  },
+  {
+    "city": "Village of Rye Brook",
+    "state": "NY",
+    "url": "https://ecode360.com/RY1192",
+    "code": "RY1192"
+  },
+  {
+    "city": "Village of Saddle Rock",
+    "state": "NY",
+    "url": "https://ecode360.com/SA0943",
+    "code": "SA0943"
+  },
+  {
+    "city": "Village of Sag Harbor",
+    "state": "NY",
+    "url": "https://ecode360.com/SA0314",
+    "code": "SA0314"
+  },
+  {
+    "city": "Village of Sagaponack",
+    "state": "NY",
+    "url": "https://ecode360.com/SA2797",
+    "code": "SA2797"
+  },
+  {
+    "city": "Village of Sands Point",
+    "state": "NY",
+    "url": "https://ecode360.com/SA0704",
+    "code": "SA0704"
+  },
+  {
+    "city": "Village of Saranac Lake",
+    "state": "NY",
+    "url": "https://ecode360.com/SA0109",
+    "code": "SA0109"
+  },
+  {
+    "city": "Village of Saugerties",
+    "state": "NY",
+    "url": "https://ecode360.com/SA0824",
+    "code": "SA0824"
+  },
+  {
+    "city": "Village of Scarsdale",
+    "state": "NY",
+    "url": "https://ecode360.com/SC0993",
+    "code": "SC0993"
+  },
+  {
+    "city": "Village of Scotia",
+    "state": "NY",
+    "url": "https://ecode360.com/SC1344",
+    "code": "SC1344"
+  },
+  {
+    "city": "Village of Scottsville",
+    "state": "NY",
+    "url": "https://ecode360.com/SC1216",
+    "code": "SC1216"
+  },
+  {
+    "city": "Village of Sea Cliff",
+    "state": "NY",
+    "url": "https://ecode360.com/SE0543",
+    "code": "SE0543"
+  },
+  {
+    "city": "Village of Shortsville",
+    "state": "NY",
+    "url": "https://ecode360.com/SH0676",
+    "code": "SH0676"
+  },
+  {
+    "city": "Village of Sidney",
+    "state": "NY",
+    "url": "https://ecode360.com/SI0279",
+    "code": "SI0279"
+  },
+  {
+    "city": "Village of Skaneateles",
+    "state": "NY",
+    "url": "https://ecode360.com/SK1975",
+    "code": "SK1975"
+  },
+  {
+    "city": "Village of Sleepy Hollow",
+    "state": "NY",
+    "url": "https://ecode360.com/SL0084",
+    "code": "SL0084"
+  },
+  {
+    "city": "Village of Sloan",
+    "state": "NY",
+    "url": "https://ecode360.com/SL0113",
+    "code": "SL0113"
+  },
+  {
+    "city": "Village of Sloatsburg",
+    "state": "NY",
+    "url": "https://ecode360.com/SL0114",
+    "code": "SL0114"
+  },
+  {
+    "city": "Village of Solvay",
+    "state": "NY",
+    "url": "https://ecode360.com/SO1086",
+    "code": "SO1086"
+  },
+  {
+    "city": "Village of South Floral Park",
+    "state": "NY",
+    "url": "https://ecode360.com/SO0984",
+    "code": "SO0984"
+  },
+  {
+    "city": "Village of South Glens Falls",
+    "state": "NY",
+    "url": "https://ecode360.com/SO0117",
+    "code": "SO0117"
+  },
+  {
+    "city": "Village of South Nyack",
+    "state": "NY",
+    "url": "https://ecode360.com/SO0166",
+    "code": "SO0166"
+  },
+  {
+    "city": "Village of Southampton",
+    "state": "NY",
+    "url": "https://ecode360.com/SO0841",
+    "code": "SO0841"
+  },
+  {
+    "city": "Village of Speculator",
+    "state": "NY",
+    "url": "https://ecode360.com/SP6573",
+    "code": "SP6573"
+  },
+  {
+    "city": "Village of Spencerport",
+    "state": "NY",
+    "url": "https://ecode360.com/SP0233",
+    "code": "SP0233"
+  },
+  {
+    "city": "Village of Spring Valley",
+    "state": "NY",
+    "url": "https://ecode360.com/SP1480",
+    "code": "SP1480"
+  },
+  {
+    "city": "Village of Springville",
+    "state": "NY",
+    "url": "https://ecode360.com/SP0643",
+    "code": "SP0643"
+  },
+  {
+    "city": "Village of Stewart Manor",
+    "state": "NY",
+    "url": "https://ecode360.com/ST1174",
+    "code": "ST1174"
+  },
+  {
+    "city": "Village of Suffern",
+    "state": "NY",
+    "url": "https://ecode360.com/SU0121",
+    "code": "SU0121"
+  },
+  {
+    "city": "Village of Sylvan Beach",
+    "state": "NY",
+    "url": "https://ecode360.com/SY1091",
+    "code": "SY1091"
+  },
+  {
+    "city": "Village of Tarrytown",
+    "state": "NY",
+    "url": "https://ecode360.com/TA1273",
+    "code": "TA1273"
+  },
+  {
+    "city": "Village of The Branch",
+    "state": "NY",
+    "url": "https://ecode360.com/VI0401",
+    "code": "VI0401"
+  },
+  {
+    "city": "Village of Thomaston",
+    "state": "NY",
+    "url": "https://ecode360.com/TH0685",
+    "code": "TH0685"
+  },
+  {
+    "city": "Village of Tivoli",
+    "state": "NY",
+    "url": "https://ecode360.com/TI1599",
+    "code": "TI1599"
+  },
+  {
+    "city": "Village of Tuckahoe",
+    "state": "NY",
+    "url": "https://ecode360.com/TU1441",
+    "code": "TU1441"
+  },
+  {
+    "city": "Village of Tuxedo Park",
+    "state": "NY",
+    "url": "https://ecode360.com/TU0190",
+    "code": "TU0190"
+  },
+  {
+    "city": "Village of Unadilla",
+    "state": "NY",
+    "url": "https://ecode360.com/UN1008",
+    "code": "UN1008"
+  },
+  {
+    "city": "Village of Upper Brookville",
+    "state": "NY",
+    "url": "https://ecode360.com/UP1750",
+    "code": "UP1750"
+  },
+  {
+    "city": "Village of Valatie",
+    "state": "NY",
+    "url": "https://ecode360.com/VA0616",
+    "code": "VA0616"
+  },
+  {
+    "city": "Village of Valley Stream",
+    "state": "NY",
+    "url": "https://ecode360.com/VA0219",
+    "code": "VA0219"
+  },
+  {
+    "city": "Village of Vernon",
+    "state": "NY",
+    "url": "https://ecode360.com/VE1336",
+    "code": "VE1336"
+  },
+  {
+    "city": "Village of Victor",
+    "state": "NY",
+    "url": "https://ecode360.com/VI0198",
+    "code": "VI0198"
+  },
+  {
+    "city": "Village of Voorheesville",
+    "state": "NY",
+    "url": "https://ecode360.com/VO2823",
+    "code": "VO2823"
+  },
+  {
+    "city": "Village of Walden",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0823",
+    "code": "WA0823"
+  },
+  {
+    "city": "Village of Walton",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0231",
+    "code": "WA0231"
+  },
+  {
+    "city": "Village of Wappingers Falls",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0129",
+    "code": "WA0129"
+  },
+  {
+    "city": "Village of Warsaw",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0130",
+    "code": "WA0130"
+  },
+  {
+    "city": "Village of Warwick",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0539",
+    "code": "WA0539"
+  },
+  {
+    "city": "Village of Washingtonville",
+    "state": "NY",
+    "url": "https://ecode360.com/WA1295",
+    "code": "WA1295"
+  },
+  {
+    "city": "Village of Waterford",
+    "state": "NY",
+    "url": "https://ecode360.com/WA1892",
+    "code": "WA1892"
+  },
+  {
+    "city": "Village of Waterloo",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0131",
+    "code": "WA0131"
+  },
+  {
+    "city": "Village of Waverly",
+    "state": "NY",
+    "url": "https://ecode360.com/WA0132",
+    "code": "WA0132"
+  },
+  {
+    "city": "Village of Webster",
+    "state": "NY",
+    "url": "https://ecode360.com/WE0133",
+    "code": "WE0133"
+  },
+  {
+    "city": "Village of Weedsport",
+    "state": "NY",
+    "url": "https://ecode360.com/WE0134",
+    "code": "WE0134"
+  },
+  {
+    "city": "Village of Wesley Hills",
+    "state": "NY",
+    "url": "https://ecode360.com/WE3180",
+    "code": "WE3180"
+  },
+  {
+    "city": "Village of West Carthage",
+    "state": "NY",
+    "url": "https://ecode360.com/WE0468",
+    "code": "WE0468"
+  },
+  {
+    "city": "Village of West Hampton Dunes",
+    "state": "NY",
+    "url": "https://ecode360.com/WE2990",
+    "code": "WE2990"
+  },
+  {
+    "city": "Village of West Haverstraw",
+    "state": "NY",
+    "url": "https://ecode360.com/WE1502",
+    "code": "WE1502"
+  },
+  {
+    "city": "Village of Westbury",
+    "state": "NY",
+    "url": "https://ecode360.com/WE0136",
+    "code": "WE0136"
+  },
+  {
+    "city": "Village of Westfield",
+    "state": "NY",
+    "url": "https://ecode360.com/WE0661",
+    "code": "WE0661"
+  },
+  {
+    "city": "Village of Westhampton Beach",
+    "state": "NY",
+    "url": "https://ecode360.com/WE0779",
+    "code": "WE0779"
+  },
+  {
+    "city": "Village of Whitesboro",
+    "state": "NY",
+    "url": "https://ecode360.com/WH0138",
+    "code": "WH0138"
+  },
+  {
+    "city": "Village of Williamsville",
+    "state": "NY",
+    "url": "https://ecode360.com/WI1015",
+    "code": "WI1015"
+  },
+  {
+    "city": "Village of Williston Park",
+    "state": "NY",
+    "url": "https://ecode360.com/WI1739",
+    "code": "WI1739"
+  },
+  {
+    "city": "Village of Wolcott",
+    "state": "NY",
+    "url": "https://ecode360.com/WO0142",
+    "code": "WO0142"
+  },
+  {
+    "city": "Village of Woodbury",
+    "state": "NY",
+    "url": "https://ecode360.com/WO2925",
+    "code": "WO2925"
+  },
+  {
+    "city": "Village of Woodridge",
+    "state": "NY",
+    "url": "https://ecode360.com/WO1303",
+    "code": "WO1303"
+  },
+  {
+    "city": "Village of Woodsburgh",
+    "state": "NY",
+    "url": "https://ecode360.com/WO1199",
+    "code": "WO1199"
+  },
+  {
+    "city": "Village of Yorkville",
+    "state": "NY",
+    "url": "https://ecode360.com/YO1205",
+    "code": "YO1205"
+  }
+]

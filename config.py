@@ -37,3 +37,18 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 # Testing mode
 TEST_MODE = False  # Set to False to run full scraper
 TEST_LIMIT = 5  # Number of cities to process in test mode
+
+# ecode360 Configuration
+ECODE360_STATES = ["NY"]  # States to scrape from ecode360
+ECODE360_OUTPUT_DIR = "output_pdfs/ecode360"
+
+# Aspirational language terms for ethics codes
+ASPIRATIONAL_TERMS = [
+    "strive",
+    "shall endeavor",
+    "aspire",
+    "seek to",
+    "best interest",
+    "shall pursue",
+    "commit to"
+]
